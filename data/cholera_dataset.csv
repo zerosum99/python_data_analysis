@@ -1,0 +1,2493 @@
+Country,Year,Number of reported cases of cholera,Number of reported deaths from cholera,Cholera case fatality rate,WHO Region
+Afghanistan,2016,677,5,0.7,Eastern Mediterranean
+Afghanistan,2015,58064,8,0.01,Eastern Mediterranean
+Afghanistan,2014,45481,4,0.0,Eastern Mediterranean
+Afghanistan,2013,3957,14,0.35,Eastern Mediterranean
+Afghanistan,2012,12,0,0.1,Eastern Mediterranean
+Afghanistan,2011,3733,44,1.18,Eastern Mediterranean
+Afghanistan,2010,2369,10,0.42,Eastern Mediterranean
+Afghanistan,2009,662,11,1.66,Eastern Mediterranean
+Afghanistan,2008,4384,22,0.5,Eastern Mediterranean
+Afghanistan,2005,33,0,0,Eastern Mediterranean
+Afghanistan,2003,41,7,17.07,Eastern Mediterranean
+Afghanistan,2002,3,,,Eastern Mediterranean
+Afghanistan,2001,4499,114,2.53,Eastern Mediterranean
+Afghanistan,2000,4330,198,4.57,Eastern Mediterranean
+Afghanistan,1999,24639,152,0.62,Eastern Mediterranean
+Afghanistan,1998,10000,0,0,Eastern Mediterranean
+Afghanistan,1997,4170,125,3,Eastern Mediterranean
+Afghanistan,1995,19903,624,3.14,Eastern Mediterranean
+Afghanistan,1994,38735,118,0.3,Eastern Mediterranean
+Afghanistan,1993,37046,931,2.51,Eastern Mediterranean
+Afghanistan,1965,218,55,25.23,Eastern Mediterranean
+Afghanistan,1960,887,199,22.44,Eastern Mediterranean
+Albania,1994,626,25,3.99,Europe
+Algeria,2006,0,0,0,Africa
+Algeria,2005,0,0,0,Africa
+Algeria,1994,118,4,3.39,Africa
+Algeria,1992,69,0,0,Africa
+Algeria,1990,1299,20,1.54,Africa
+Algeria,1989,393,0,0,Africa
+Algeria,1988,699,30,4.29,Africa
+Algeria,1987,1507,0,0,Africa
+Algeria,1984,45,0,0,Africa
+Algeria,1983,218,9,4.13,Africa
+Algeria,1980,614,18,2.93,Africa
+Algeria,1979,2513,94,3.74,Africa
+Algeria,1978,220,13,5.91,Africa
+Algeria,1977,262,9,3.44,Africa
+Algeria,1976,286,30,10.49,Africa
+Algeria,1975,1165,118,10.13,Africa
+Algeria,1974,738,50,6.78,Africa
+Algeria,1973,605,74,12.23,Africa
+Algeria,1972,646,71,10.99,Africa
+Algeria,1971,1332,110,8.26,Africa
+Angola,2016,78,3,3.8,Africa
+Angola,2014,213,3,1.4,Africa
+Angola,2013,6655,86,1.29,Africa
+Angola,2012,1215,98,8.07,Africa
+Angola,2011,1810,110,6.08,Africa
+Angola,2010,1484,30,2.02,Africa
+Angola,2009,2019,88,4.36,Africa
+Angola,2008,10511,243,2.31,Africa
+Angola,2007,18422,513,2.78,Africa
+Angola,2006,67257,2722,4.05,Africa
+Angola,2005,0,0,0,Africa
+Angola,1996,1306,42,3.22,Africa
+Angola,1995,3295,248,7.53,Africa
+Angola,1994,3443,187,5.43,Africa
+Angola,1992,3608,184,5.1,Africa
+Angola,1991,8590,582,6.78,Africa
+Angola,1990,9527,809,8.49,Africa
+Angola,1989,17601,925,5.26,Africa
+Angola,1988,15500,1542,9.95,Africa
+Angola,1987,16222,1403,8.65,Africa
+Angola,1977,726,31,4.27,Africa
+Angola,1975,88,4,4.55,Africa
+Angola,1974,934,34,3.64,Africa
+Angola,1973,263,9,3.42,Africa
+Angola,1972,268,24,8.96,Africa
+Angola,1971,1,,,Africa
+Argentina,1998,12,0,0,Americas
+Argentina,1997,637,12,1.88,Americas
+Argentina,1996,474,5,1.05,Americas
+Argentina,1995,188,1,0.53,Americas
+Argentina,1994,889,15,1.69,Americas
+Argentina,1993,2350,34,1.45,Americas
+Armenia,1998,25,0,0,Europe
+Australia,2016,1,0,0.0,Western Pacific
+Australia,2015,2,,,Western Pacific
+Australia,2014,2,0,0.0,Western Pacific
+Australia,2013,3,0,0,Western Pacific
+Australia,2012,5,0,0,Western Pacific
+Australia,2011,6 ,0,0.00,Western Pacific
+Australia,2010,3,0,0.00,Western Pacific
+Australia,2007,3,0,0,Western Pacific
+Australia,2006,3,0,0,Western Pacific
+Australia,2005,2,0,0,Western Pacific
+Australia,2004,2,0,0.00,Western Pacific
+Australia,2002,5,,,Western Pacific
+Australia,2001,2,,,Western Pacific
+Australia,2000,1,,,Western Pacific
+Australia,1999,4,0,0,Western Pacific
+Australia,1998,5,,,Western Pacific
+Australia,1997,2,0,0,Western Pacific
+Australia,1996,2,0,0,Western Pacific
+Australia,1995,5,0,0,Western Pacific
+Australia,1994,3,0,0,Western Pacific
+Australia,1993,5,0,0,Western Pacific
+Australia,1992,3,0,0,Western Pacific
+Australia,1988,1,0,0,Western Pacific
+Australia,1987,1,0,0,Western Pacific
+Australia,1985,2,0,0,Western Pacific
+Australia,1984,1,0,0,Western Pacific
+Australia,1983,4,0,0,Western Pacific
+Australia,1982,1,0,0,Western Pacific
+Australia,1981,2,0,0,Western Pacific
+Australia,1980,2,0,0,Western Pacific
+Australia,1979,1,0,0,Western Pacific
+Australia,1978,1,0,0,Western Pacific
+Australia,1977,2,0,0,Western Pacific
+Australia,1972,40,0,0,Western Pacific
+Austria,2005,1,0,0,Europe
+Austria,2002,1,,,Europe
+Austria,2001,0,,,Europe
+Austria,1999,1,0,0,Europe
+Austria,1998,1,,,Europe
+Austria,1996,1,0,0,Europe
+Austria,1994,1,0,0,Europe
+Austria,1993,1,0,0,Europe
+Austria,1990,2,0,0,Europe
+Azerbaijan,1994,18,0,0,Europe
+Bahamas,2012,1,0,0,Americas
+Bahamas,2011,1 ,,,Americas
+Bahrain,2015,8,0,0,Eastern Mediterranean
+Bahrain,1979,39,0,0,Eastern Mediterranean
+Bahrain,1978,906,2,0.22,Eastern Mediterranean
+Bahrain,1973,37,0,0,Eastern Mediterranean
+Bahrain,1972,74,4,5.41,Eastern Mediterranean
+Bahrain,1965,1,0,0,Eastern Mediterranean
+Bangladesh,2000,1021,16,1.57,South-East Asia
+Bangladesh,1999,3440,63,1.83,South-East Asia
+Bangladesh,1998,1067,26,2.44,South-East Asia
+Bangladesh,1997,1959,95,4.85,South-East Asia
+Bangladesh,1996,418,0,0,South-East Asia
+Bangladesh,1995,2297,61,2.66,South-East Asia
+Bangladesh,1994,562,41,7.3,South-East Asia
+Bangladesh,1993,78,0,0,South-East Asia
+Bangladesh,1992,479,29,6.05,South-East Asia
+Bangladesh,1991,8,0,0,South-East Asia
+Bangladesh,1990,82,4,4.88,South-East Asia
+Bangladesh,1989,94,2,2.13,South-East Asia
+Bangladesh,1988,571,43,7.53,South-East Asia
+Bangladesh,1987,523,23,4.4,South-East Asia
+Bangladesh,1979,2154,21,0.97,South-East Asia
+Bangladesh,1978,5576,81,1.45,South-East Asia
+Bangladesh,1977,10403,354,3.4,South-East Asia
+Bangladesh,1976,957,62,6.48,South-East Asia
+Bangladesh,1975,4888,117,2.39,South-East Asia
+Bangladesh,1974,5614,173,3.08,South-East Asia
+Bangladesh,1973,1969,369,18.74,South-East Asia
+Bangladesh,1972,1059,201,18.98,South-East Asia
+Bangladesh,1971,2342,386,16.48,South-East Asia
+Bangladesh,1970,7419,1889,25.46,South-East Asia
+Bangladesh,1969,7411,1556,21,South-East Asia
+Bangladesh,1968,3156,614,19.46,South-East Asia
+Bangladesh,1967,664,369,55.57,South-East Asia
+Bangladesh,1966,3154,1234,39.12,South-East Asia
+Bangladesh,1965,1123,683,60.82,South-East Asia
+Bangladesh,1964,3333,2419,72.58,South-East Asia
+Bangladesh,1963,3975,1248,31.4,South-East Asia
+Bangladesh,1962,2524,1304,51.66,South-East Asia
+Bangladesh,1961,2663,1703,63.95,South-East Asia
+Bangladesh,1960,15618,6272,40.16,South-East Asia
+Bangladesh,1959,16915,11056,65.36,South-East Asia
+Bangladesh,1958,15631,10119,64.74,South-East Asia
+Bangladesh,1957,8054,5134,63.74,South-East Asia
+Bangladesh,1956,23699,15310,64.6,South-East Asia
+Bangladesh,1955,16642,9802,58.9,South-East Asia
+Bangladesh,1954,15617,9443,60.47,South-East Asia
+Bangladesh,1953,27631,16904,61.18,South-East Asia
+Bangladesh,1952,21154,12884,60.91,South-East Asia
+Bangladesh,1951,20894,12372,59.21,South-East Asia
+Bangladesh,1950,29809,12947,43.43,South-East Asia
+Belarus,1995,3,0,0,Europe
+Belarus,1994,3,0,0,Europe
+Belgium,2005,2,0,0,Europe
+Belgium,2004,1,0,0.00,Europe
+Belgium,1994,1,0,0,Europe
+Belgium,1993,1,0,0,Europe
+Belgium,1992,1,,,Europe
+Belgium,1985,1,0,0,Europe
+Belgium,1984,1,0,0,Europe
+Belgium,1983,1,0,0,Europe
+Belgium,1980,1,0,0,Europe
+Belize,1999,12,0,0,Americas
+Belize,1998,28,1,3.57,Americas
+Belize,1997,2,0,0,Americas
+Belize,1996,26,0,0,Americas
+Belize,1995,19,1,5.26,Americas
+Belize,1994,6,1,16.67,Americas
+Belize,1993,135,3,2.22,Americas
+Belize,1992,159,4,2.52,Americas
+Benin,2016,761,13,1.7,Africa
+Benin,2014,832,12,1.4,Africa
+Benin,2013,528,6,1.14,Africa
+Benin,2012,625,3,0.48,Africa
+Benin,2011,755,4,0.53,Africa
+Benin,2010,983,8,0.81,Africa
+Benin,2009,74,1,1.35,Africa
+Benin,2008,985,5,0.51,Africa
+Benin,2006,91,1,1.1,Africa
+Benin,2005,749,11,1.47,Africa
+Benin,2004,642,9,1.4,Africa
+Benin,2003,434,11,2.53,Africa
+Benin,2002,270,13,4.81,Africa
+Benin,2001,3943,71,1.8,Africa
+Benin,2000,468,11,2.35,Africa
+Benin,1999,855,25,2.92,Africa
+Benin,1998,206,1,0.49,Africa
+Benin,1997,796,16,2.01,Africa
+Benin,1996,6190,203,3.28,Africa
+Benin,1995,203,12,5.91,Africa
+Benin,1994,187,20,10.7,Africa
+Benin,1993,10,2,20,Africa
+Benin,1992,413,17,4.12,Africa
+Benin,1991,7474,259,3.47,Africa
+Benin,1986,243,13,5.35,Africa
+Benin,1984,1,0,0,Africa
+Benin,1983,1,0,0,Africa
+Benin,1982,3,0,0,Africa
+Benin,1981,2,0,0,Africa
+Benin,1980,3,0,0,Africa
+Benin,1978,27,0,0,Africa
+Benin,1977,2,0,0,Africa
+Benin,1976,146,14,9.59,Africa
+Benin,1975,45,1,2.22,Africa
+Benin,1974,73,4,5.48,Africa
+Benin,1973,3,2,66.67,Africa
+Benin,1972,250,29,11.6,Africa
+Benin,1971,2133,274,12.85,Africa
+Benin,1970,175,37,21.14,Africa
+Bhutan,1998,19,0,0,South-East Asia
+Bhutan,1995,25,0,0,South-East Asia
+Bhutan,1992,494,6,1.21,South-East Asia
+Bhutan,1991,422,19,4.5,South-East Asia
+Bolivia (Plurinational State of),1998,466,7,1.5,Americas
+Bolivia (Plurinational State of),1997,1632,18,1.1,Americas
+Bolivia (Plurinational State of),1996,2847,68,2.39,Americas
+Bolivia (Plurinational State of),1995,2293,54,2.36,Americas
+Bolivia (Plurinational State of),1994,2710,46,1.7,Americas
+Bolivia (Plurinational State of),1993,10134,254,2.51,Americas
+Bolivia (Plurinational State of),1992,22260,395,1.77,Americas
+Bolivia (Plurinational State of),1991,206,12,5.83,Americas
+Botswana,2009,15,2,13.33,Africa
+Botswana,2008,8,1,12.5,Africa
+Botswana,2006,0,0,0,Africa
+Botswana,2005,0,0,0,Africa
+Brazil,2011,1 ,0,0.00,Americas
+Brazil,2005,5,0,0,Americas
+Brazil,2004,21,0,0.00,Americas
+Brazil,2001,7,0,0,Americas
+Brazil,2000,715,17,2.38,Americas
+Brazil,1999,4495,83,1.85,Americas
+Brazil,1998,2571,27,1.05,Americas
+Brazil,1997,2881,37,1.28,Americas
+Brazil,1996,5522,33,0.6,Americas
+Brazil,1995,15915,85,0.53,Americas
+Brazil,1994,49455,452,0.91,Americas
+Brazil,1993,59212,644,1.09,Americas
+Brazil,1992,30317,363,1.2,Americas
+Brazil,1991,2103,33,1.57,Americas
+Brunei Darussalam,2011,3 ,,0.00,Western Pacific
+Brunei Darussalam,1999,93,0,0,Western Pacific
+Brunei Darussalam,1982,6,0,0,Western Pacific
+Brunei Darussalam,1970,24,0,0,Western Pacific
+Brunei Darussalam,1965,198,6,3.03,Western Pacific
+Brunei Darussalam,1955,1,0,0,Western Pacific
+Burkina Faso,2012,143,7,4.9,Africa
+Burkina Faso,2011,20,2,10,Africa
+Burkina Faso,2008,0,0,0,Africa
+Burkina Faso,2006,0,0,0,Africa
+Burkina Faso,2005,1050,16,1.52,Africa
+Burkina Faso,2003,1,,,Africa
+Burkina Faso,2001,477,7,1.47,Africa
+Burkina Faso,2000,617,14,2.27,Africa
+Burkina Faso,1999,93,7,7.53,Africa
+Burkina Faso,1998,1036,52,5.02,Africa
+Burkina Faso,1996,425,58,13.65,Africa
+Burkina Faso,1995,1451,113,7.79,Africa
+Burkina Faso,1991,537,61,11.36,Africa
+Burkina Faso,1985,1149,156,13.58,Africa
+Burkina Faso,1984,2191,117,5.34,Africa
+Burkina Faso,1978,1,0,0,Africa
+Burkina Faso,1975,3,3,100,Africa
+Burkina Faso,1974,632,66,10.44,Africa
+Burkina Faso,1973,1118,249,22.27,Africa
+Burkina Faso,1972,1,0,0,Africa
+Burkina Faso,1971,1761,495,28.11,Africa
+Burkina Faso,1970,1,1,100,Africa
+Burundi,2016,434,5,1.2,Africa
+Burundi,2015,442,0,0,Africa
+Burundi,2014,582,9,1.5,Africa
+Burundi,2013,1557,17,1.09,Africa
+Burundi,2012,214,1,0.47,Africa
+Burundi,2011,1072,1,0.09,Africa
+Burundi,2010,333,1,0.30,Africa
+Burundi,2009,355,0,0,Africa
+Burundi,2008,234,4,1.71,Africa
+Burundi,2007,365,2,0.55,Africa
+Burundi,2006,886,7,0.79,Africa
+Burundi,2005,1309,18,1.38,Africa
+Burundi,2004,819,14,1.71,Africa
+Burundi,2003,432,18,4.17,Africa
+Burundi,2002,577,8,1.39,Africa
+Burundi,2001,1003,20,1.99,Africa
+Burundi,2000,1021,16,1.57,Africa
+Burundi,1999,3440,63,1.83,Africa
+Burundi,1998,1067,26,2.44,Africa
+Burundi,1997,1959,95,4.85,Africa
+Burundi,1996,418,,,Africa
+Burundi,1995,2297,,,Africa
+Burundi,1994,562,41,7.3,Africa
+Burundi,1993,78,0,0,Africa
+Burundi,1992,479,29,6.05,Africa
+Burundi,1991,3,,,Africa
+Burundi,1990,82,,,Africa
+Burundi,1985,259,15,5.79,Africa
+Burundi,1984,180,10,5.56,Africa
+Burundi,1983,512,35,6.84,Africa
+Burundi,1982,415,9,2.17,Africa
+Burundi,1981,582,11,1.89,Africa
+Burundi,1980,2039,28,1.37,Africa
+Burundi,1979,915,31,3.39,Africa
+Burundi,1978,8297,248,2.99,Africa
+Cabo Verde,2006,0,0,0,Africa
+Cabo Verde,2005,0,0,0,Africa
+Cabo Verde,1998,133,1,0.75,Africa
+Cabo Verde,1996,428,3,0.7,Africa
+Cabo Verde,1995,12913,240,1.86,Africa
+Cabo Verde,1994,128,12,9.38,Africa
+Cabo Verde,1976,219,17,7.76,Africa
+Cabo Verde,1975,20,3,15,Africa
+Cabo Verde,1974,303,8,2.64,Africa
+Cambodia,2010,588,1,0.17,Western Pacific
+Cambodia,2009,39,0,0,Western Pacific
+Cambodia,2004,57,1,1.75,Western Pacific
+Cambodia,1999,1711,130,7.6,Western Pacific
+Cambodia,1998,1197,66,5.51,Western Pacific
+Cambodia,1997,155,0,0,Western Pacific
+Cambodia,1996,740,20,2.7,Western Pacific
+Cambodia,1995,4190,123,2.94,Western Pacific
+Cambodia,1994,3085,211,6.84,Western Pacific
+Cambodia,1993,2252,104,4.62,Western Pacific
+Cambodia,1992,1229,120,9.76,Western Pacific
+Cambodia,1991,770,97,12.6,Western Pacific
+Cambodia,1990,5,0,0,Western Pacific
+Cambodia,1989,47,2,4.26,Western Pacific
+Cambodia,1988,56,0,0,Western Pacific
+Cambodia,1987,474,55,11.6,Western Pacific
+Cambodia,1975,66,0,0,Western Pacific
+Cambodia,1974,145,1,0.69,Western Pacific
+Cambodia,1973,159,14,8.81,Western Pacific
+Cambodia,1968,8,1,12.5,Western Pacific
+Cambodia,1967,4,0,0,Western Pacific
+Cambodia,1966,62,5,8.06,Western Pacific
+Cambodia,1964,187,27,14.44,Western Pacific
+Cambodia,1963,52,13,25,Western Pacific
+Cambodia,1958,3,0,0,Western Pacific
+Cambodia,1957,6,1,16.67,Western Pacific
+Cambodia,1956,1,1,100,Western Pacific
+Cambodia,1954,2,2,100,Western Pacific
+Cambodia,1953,11,8,72.73,Western Pacific
+Cambodia,1952,24,10,41.67,Western Pacific
+Cambodia,1951,57,40,70.18,Western Pacific
+Cambodia,1950,10,1,10,Western Pacific
+Cameroon,2015,124,6,4.8,Africa
+Cameroon,2014,3355,184,5.5,Africa
+Cameroon,2013,29,0,0,Africa
+Cameroon,2012,363,5,1.38,Africa
+Cameroon,2011,22433,783,3.49,Africa
+Cameroon,2010,10759,657,6.10,Africa
+Cameroon,2009,804,89,11.07,Africa
+Cameroon,2008,0,0,0,Africa
+Cameroon,2007,10,1,10,Africa
+Cameroon,2006,922,35,3.8,Africa
+Cameroon,2005,2847,110,3.86,Africa
+Cameroon,2004,8005,137,1.71,Africa
+Cameroon,2003,207,36,17.39,Africa
+Cameroon,2002,66,8,12.12,Africa
+Cameroon,2001,259,7,2.7,Africa
+Cameroon,2000,123,29,23.58,Africa
+Cameroon,1999,1584,35,2.21,Africa
+Cameroon,1998,4603,316,6.87,Africa
+Cameroon,1997,1709,180,10.53,Africa
+Cameroon,1996,5796,485,8.37,Africa
+Cameroon,1995,615,21,3.41,Africa
+Cameroon,1994,527,61,11.58,Africa
+Cameroon,1993,648,19,2.93,Africa
+Cameroon,1992,1268,66,5.21,Africa
+Cameroon,1991,4026,491,12.2,Africa
+Cameroon,1990,16,0,0,Africa
+Cameroon,1989,4,2,50,Africa
+Cameroon,1988,4,0,0,Africa
+Cameroon,1987,94,6,6.38,Africa
+Cameroon,1986,165,12,7.27,Africa
+Cameroon,1985,1158,103,8.89,Africa
+Cameroon,1984,392,60,15.31,Africa
+Cameroon,1983,55,18,32.73,Africa
+Cameroon,1982,5,3,60,Africa
+Cameroon,1981,243,17,7,Africa
+Cameroon,1980,229,23,10.04,Africa
+Cameroon,1979,16,4,25,Africa
+Cameroon,1978,3,0,0,Africa
+Cameroon,1976,135,27,20,Africa
+Cameroon,1975,3,0,0,Africa
+Cameroon,1974,83,16,19.28,Africa
+Cameroon,1973,206,16,7.77,Africa
+Cameroon,1972,362,27,7.46,Africa
+Cameroon,1971,2167,336,15.51,Africa
+Canada,2016,1,0,0.0,Americas
+Canada,2015,3,0,0,Americas
+Canada,2014,2,0,0.0,Americas
+Canada,2013,1,0,0,Americas
+Canada,2011,9 ,,0.00,Americas
+Canada,2010,2,0,0.00,Americas
+Canada,2009,2,0,0,Americas
+Canada,2008,1,0,0,Americas
+Canada,2007,1,0,0,Americas
+Canada,2006,2,0,0,Americas
+Canada,2005,7,0,0,Americas
+Canada,2004,3,0,0.00,Americas
+Canada,2003,5,,,Americas
+Canada,2002,4,0,0,Americas
+Canada,2001,6,,,Americas
+Canada,2000,5,0,0,Americas
+Canada,1998,2,0,0,Americas
+Canada,1996,2,0,0,Americas
+Canada,1995,7,0,0,Americas
+Canada,1994,2,0,0,Americas
+Canada,1993,6,1,16.67,Americas
+Canada,1992,5,0,0,Americas
+Canada,1991,2,0,0,Americas
+Canada,1989,1,0,0,Americas
+Central African Republic,2012,21,0,0,Africa
+Central African Republic,2011,117,15,12.82,Africa
+Central African Republic,2006,0,0,0,Africa
+Central African Republic,2005,0,0,0,Africa
+Central African Republic,2004,320,48,15,Africa
+Central African Republic,1998,22,3,13.64,Africa
+Central African Republic,1997,443,75,16.93,Africa
+Chad,2011,17267,458,2.65,Africa
+Chad,2010,6395,175,2.74,Africa
+Chad,2009,67,6,8.96,Africa
+Chad,2007,0,0,0,Africa
+Chad,2006,1668,71,4.26,Africa
+Chad,2005,90,14,15.56,Africa
+Chad,2004,5531,272,4.92,Africa
+Chad,2003,55,7,12.73,Africa
+Chad,2001,5244,226,4.31,Africa
+Chad,1999,217,18,8.29,Africa
+Chad,1998,4095,144,3.52,Africa
+Chad,1997,8801,443,5.03,Africa
+Chad,1996,7830,448,5.72,Africa
+Chad,1994,1094,43,3.93,Africa
+Chad,1991,13915,1344,9.66,Africa
+Chad,1974,338,87,25.74,Africa
+Chad,1972,9,3,33.33,Africa
+Chad,1971,8230,2411,29.3,Africa
+Chile,2014,1,0,0.0,Americas
+Chile,2013,2,0,0,Americas
+Chile,2011,1 ,0,0.00,Americas
+Chile,1998,24,2,8.33,Americas
+Chile,1997,4,0,0,Americas
+Chile,1996,1,0,0,Americas
+Chile,1994,1,0,0,Americas
+Chile,1993,32,0,0,Americas
+Chile,1992,73,1,1.37,Americas
+Chile,1991,41,2,4.88,Americas
+China,2016,27,0,0,Western Pacific
+China,2015,13,0,0,Western Pacific
+China,2014,24,0,0.0,Western Pacific
+China,2013,53,1,1.89,Western Pacific
+China,2012,77,0,0,Western Pacific
+China,2011,26 ,,0.00,Western Pacific
+China,2010,157,0,0.00,Western Pacific
+China,2009,85,0,0,Western Pacific
+China,2008,174,0,0,Western Pacific
+China,2007,168,0,0,Western Pacific
+China,2006,161,2,1.24,Western Pacific
+China,2005,980,4,0.41,Western Pacific
+China,2004,244,1,0.41,Western Pacific
+China,2003,223,1,0.45,Western Pacific
+China,2001,140,0,0,Western Pacific
+China,2000,1846,3,0.16,Western Pacific
+China,1999,4589,0,0,Western Pacific
+China,1998,4642,0,0,Western Pacific
+China,1997,1177,29,2.46,Western Pacific
+China,1996,316,4,1.27,Western Pacific
+China,1995,10337,88,0.85,Western Pacific
+China,1994,34877,319,0.91,Western Pacific
+China,1993,11673,94,0.81,Western Pacific
+China,1992,583,1,0.17,Western Pacific
+China,1991,210,0,0,Western Pacific
+China,1990,644,5,0.78,Western Pacific
+China,1989,5628,59,1.05,Western Pacific
+China,1988,7267,89,1.22,Western Pacific
+China,1987,4,0,0,Western Pacific
+China,1980,88,0,0,Western Pacific
+China,1979,85,2,2.35,Western Pacific
+China,1967,1,0,0,Western Pacific
+China,1963,1,0,0,Western Pacific
+China,1962,384,24,6.25,Western Pacific
+China,1949,1,1,100,Western Pacific
+Colombia,2004,2,0,0,Americas
+Colombia,1999,42,0,0,Americas
+Colombia,1998,442,7,1.58,Americas
+Colombia,1997,1508,32,2.12,Americas
+Colombia,1996,4428,70,1.58,Americas
+Colombia,1995,1922,35,1.82,Americas
+Colombia,1994,996,14,1.41,Americas
+Colombia,1993,230,0,0,Americas
+Colombia,1992,15129,158,1.04,Americas
+Colombia,1991,11979,207,1.73,Americas
+Comoros,2008,4,0,0,Africa
+Comoros,2007,1555,29,1.86,Africa
+Comoros,2006,0,0,0,Africa
+Comoros,2005,0,0,0,Africa
+Comoros,2004,1,0,0.00,Africa
+Comoros,2003,56,0,0,Africa
+Comoros,2002,1567,46,2.94,Africa
+Comoros,2001,226,4,1.77,Africa
+Comoros,2000,3297,91,2.76,Africa
+Comoros,1999,1180,42,3.56,Africa
+Comoros,1998,7300,68,0.93,Africa
+Comoros,1976,5,1,20,Africa
+Comoros,1975,2675,238,8.9,Africa
+Congo,2016,15,2,13.3,Americas
+Congo,2013,1624,221,13.61,Americas
+Congo,2012,1181,37,3.13,Americas
+Congo,2011,762,,,Americas
+Congo,2009,93,0,0,Americas
+Congo,2008,156,4,2.56,Americas
+Congo,2007,7785,133,1.71,Americas
+Congo,2006,175,10,5.71,Americas
+Congo,2005,0,0,0,Americas
+Congo,2000,9,2,22.22,Americas
+Congo,1999,4813,20,0.42,Americas
+Congo,1998,3222,22,0.68,Americas
+Congo,1997,275,60,21.82,Americas
+Congo,1979,5,0,0,Americas
+Congo,1978,51,14,27.45,Americas
+Costa Rica,1997,1,0,0,Americas
+Costa Rica,1996,19,1,5.26,Americas
+Costa Rica,1995,24,0,0,Americas
+Costa Rica,1994,38,0,0,Americas
+Costa Rica,1993,14,0,0,Americas
+Costa Rica,1992,12,0,0,Americas
+Côte d'Ivoire,2015,199,6,3,Africa
+Côte d'Ivoire,2014,235,12,5.1,Africa
+Côte d'Ivoire,2013,56,2,3.57,Africa
+Côte d'Ivoire,2012,424,19,4.48,Africa
+Côte d'Ivoire,2011,1261,24,1.9,Africa
+Côte d'Ivoire,2010,32,0,0.00,Africa
+Côte d'Ivoire,2009,5,2,40,Africa
+Côte d'Ivoire,2008,7,1,14.29,Africa
+Côte d'Ivoire,2007,8,1,12.5,Africa
+Côte d'Ivoire,2006,414,15,3.62,Africa
+Côte d'Ivoire,2005,39,6,0,Africa
+Côte d'Ivoire,2004,105,9,8.57,Africa
+Côte d'Ivoire,2003,1034,50,4.84,Africa
+Côte d'Ivoire,2002,4188,143,3.41,Africa
+Côte d'Ivoire,2001,5912,305,5.16,Africa
+Côte d'Ivoire,1996,1345,22,1.64,Africa
+Côte d'Ivoire,1995,4993,184,3.69,Africa
+Côte d'Ivoire,1994,1108,55,4.96,Africa
+Côte d'Ivoire,1993,724,42,5.8,Africa
+Côte d'Ivoire,1992,37,7,18.92,Africa
+Côte d'Ivoire,1991,604,116,19.21,Africa
+Côte d'Ivoire,1982,34,0,0,Africa
+Côte d'Ivoire,1979,3,0,0,Africa
+Côte d'Ivoire,1971,668,9,1.35,Africa
+Côte d'Ivoire,1970,868,39,4.49,Africa
+Cuba,2015,65,0,0,Americas
+Cuba,2014,76,0,0.0,Americas
+Cuba,2013,181,0,0,Americas
+Cuba,2012,417,3,0.72,Americas
+Czechia,2002,2,,,Europe
+Czechia,1970,4,1,25,Europe
+Democratic People's Republic of Korea,1996,7,,,Western Pacific
+Democratic People's Republic of Korea,1980,170,0,0,Western Pacific
+Democratic Republic of the Congo,2016,28093,759,2.7,Africa
+Democratic Republic of the Congo,2015,19182,276,1.4,Africa
+Democratic Republic of the Congo,2014,22203,372,1.7,Africa
+Democratic Republic of the Congo,2013,26944,491,1.82,Africa
+Democratic Republic of the Congo,2012,33661,819,2.43,Africa
+Democratic Republic of the Congo,2011,21700,584,2.69,Africa
+Democratic Republic of the Congo,2010,13884,182,1.31,Africa
+Democratic Republic of the Congo,2009,22899,237,1.03,Africa
+Democratic Republic of the Congo,2008,30150,548,1.82,Africa
+Democratic Republic of the Congo,2007,28269,600,2.12,Africa
+Democratic Republic of the Congo,2006,20642,426,2.06,Africa
+Democratic Republic of the Congo,2005,13430,244,0,Africa
+Democratic Republic of the Congo,2004,7665,228,2.97,Africa
+Democratic Republic of the Congo,2003,27272,989,3.63,Africa
+Democratic Republic of the Congo,2002,31658,1979,6.25,Africa
+Democratic Republic of the Congo,2001,5728,390,6.81,Africa
+Democratic Republic of the Congo,2000,14995,941,6.28,Africa
+Democratic Republic of the Congo,1999,12711,783,6.16,Africa
+Democratic Republic of the Congo,1998,34899,2926,8.38,Africa
+Democratic Republic of the Congo,1997,2421,326,13.47,Africa
+Democratic Republic of the Congo,1996,7886,638,8.09,Africa
+Democratic Republic of the Congo,1995,553,22,3.98,Africa
+Democratic Republic of the Congo,1994,58057,4181,7.2,Africa
+Democratic Republic of the Congo,1993,986,175,17.75,Africa
+Democratic Republic of the Congo,1992,1949,59,3.03,Africa
+Democratic Republic of the Congo,1991,4066,294,7.23,Africa
+Democratic Republic of the Congo,1990,468,61,13.03,Africa
+Democratic Republic of the Congo,1989,99,6,6.06,Africa
+Democratic Republic of the Congo,1988,295,32,10.85,Africa
+Democratic Republic of the Congo,1987,1150,218,18.96,Africa
+Democratic Republic of the Congo,1986,1059,125,11.8,Africa
+Democratic Republic of the Congo,1985,740,30,4.05,Africa
+Democratic Republic of the Congo,1984,162,3,1.85,Africa
+Democratic Republic of the Congo,1983,2977,245,8.23,Africa
+Democratic Republic of the Congo,1982,10328,693,6.71,Africa
+Democratic Republic of the Congo,1981,2379,800,33.63,Africa
+Democratic Republic of the Congo,1980,1051,81,7.71,Africa
+Democratic Republic of the Congo,1979,5515,511,9.27,Africa
+Democratic Republic of the Congo,1978,3481,183,5.26,Africa
+Denmark,2016,1,0,0.0,Europe
+Denmark,2008,1,0,0,Europe
+Denmark,2004,1,0,0.00,Europe
+Denmark,1995,3,0,0,Europe
+Denmark,1994,2,0,0,Europe
+Denmark,1993,2,0,0,Europe
+Denmark,1990,1,0,0,Europe
+Djibouti,2011,127,1,0.79,Eastern Mediterranean
+Djibouti,2010,2047,19,0.93,Eastern Mediterranean
+Djibouti,2007,1087,27,2.48,Eastern Mediterranean
+Djibouti,2000,1828,32,1.75,Eastern Mediterranean
+Djibouti,1998,164,3,1.83,Eastern Mediterranean
+Djibouti,1997,2424,50,2.06,Eastern Mediterranean
+Djibouti,1994,1122,15,1.34,Eastern Mediterranean
+Djibouti,1993,10055,99,0.98,Eastern Mediterranean
+Djibouti,1985,115,7,6.09,Eastern Mediterranean
+Djibouti,1978,3,2,66.67,Eastern Mediterranean
+Djibouti,1977,2,0,0,Eastern Mediterranean
+Djibouti,1976,2,0,0,Eastern Mediterranean
+Djibouti,1972,8,3,37.5,Eastern Mediterranean
+Djibouti,1971,440,81,18.41,Eastern Mediterranean
+Djibouti,1970,6,3,50,Eastern Mediterranean
+Dominican Republic,2016,1159,27,2.3,Americas
+Dominican Republic,2015,546,15,2.7,Americas
+Dominican Republic,2014,603,11,1.8,Americas
+Dominican Republic,2013,1954,42,2.15,Americas
+Dominican Republic,2012,7919,68,0.86,Americas
+Dominican Republic,2011,20851 ,336,1.61,Americas
+Dominican Republic,2010,191,0,0.00,Americas
+Ecuador,2004,5,0,0.00,Americas
+Ecuador,2003,25,,,Americas
+Ecuador,2001,9,0,0,Americas
+Ecuador,2000,27,1,3.7,Americas
+Ecuador,1999,90,0,0,Americas
+Ecuador,1998,3724,37,0.99,Americas
+Ecuador,1997,65,3,4.62,Americas
+Ecuador,1996,1059,12,1.13,Americas
+Ecuador,1995,2160,23,1.06,Americas
+Ecuador,1994,1785,16,0.9,Americas
+Ecuador,1993,6833,72,1.05,Americas
+Ecuador,1992,31870,208,0.65,Americas
+Ecuador,1991,46320,697,1.5,Americas
+El Salvador,2000,631,2,0.32,Americas
+El Salvador,1999,134,0,0,Americas
+El Salvador,1998,8,0,0,Americas
+El Salvador,1996,182,2,1.1,Americas
+El Salvador,1995,2923,2,0.07,Americas
+El Salvador,1994,11745,38,0.32,Americas
+El Salvador,1993,6573,14,0.21,Americas
+El Salvador,1992,8717,45,0.52,Americas
+El Salvador,1991,947,34,3.59,Americas
+Equatorial Guinea,2006,0,0,0,Africa
+Equatorial Guinea,2005,6391,33,0.52,Africa
+Equatorial Guinea,2004,59,1,1.69,Africa
+Equatorial Guinea,1985,108,1,0.93,Africa
+Equatorial Guinea,1984,404,31,7.67,Africa
+Eritrea,2008,1,0,0,Africa
+Eritrea,2007,119,9,7.56,Africa
+Eritrea,2006,0,0,0,Africa
+Eritrea,2005,0,0,0,Africa
+Estonia,1993,2,0,0,Europe
+Eswatini,2009,19,0,0.00,Africa
+Eswatini,2008,1,0,0,Africa
+Eswatini,2007,0,0,0,Africa
+Eswatini,2006,18,0,0,Africa
+Eswatini,2005,0,0,0,Africa
+Eswatini,2004,1075,16,1.49,Africa
+Eswatini,2003,32,13,40.63,Africa
+Eswatini,2002,134,2,1.49,Africa
+Eswatini,2001,5612,107,1.91,Africa
+Eswatini,2000,141,16,11.35,Africa
+Eswatini,1999,7,0,0,Africa
+Eswatini,1998,7,0,0,Africa
+Eswatini,1996,2,0,0,Africa
+Eswatini,1992,2281,30,1.32,Africa
+Eswatini,1982,538,13,2.42,Africa
+Eswatini,1981,238,17,7.14,Africa
+Eswatini,1978,2,,,Africa
+Ethiopia,2010,1682,21,1.25,Africa
+Ethiopia,2009,31509,434,1.38,Africa
+Ethiopia,2008,3862,23,0.6,Africa
+Ethiopia,2007,24121,272,1.13,Africa
+Ethiopia,2006,54070,575,1.06,Africa
+Ethiopia,2005,0,0,0,Africa
+Ethiopia,2004,16,0,0,Africa
+Ethiopia,1982,0,0,0,Africa
+Ethiopia,1971,2187,124,5.67,Africa
+Ethiopia,1970,850,72,8.47,Africa
+Finland,2008,1,0,0,Europe
+Finland,2005,1,0,0,Europe
+Finland,1998,1,,,Europe
+Finland,1995,1,0,0,Europe
+Finland,1994,2,,,Europe
+Finland,1981,1,,,Europe
+France,2015,1,0,0,Europe
+France,2014,1,0,0.0,Europe
+France,2011,1 ,0,0.00,Europe
+France,2009,1,0,0,Europe
+France,2008,2,0,0,Europe
+France,2007,4,0,0,Europe
+France,2006,2,0,0,Europe
+France,2002,1,,,Europe
+France,2001,2,,,Europe
+France,2000,5,0,0,Europe
+France,1998,2,0,0,Europe
+France,1997,3,0,0,Europe
+France,1996,8,0,0,Europe
+France,1995,6,0,0,Europe
+France,1994,4,0,0,Europe
+France,1993,5,0,0,Europe
+France,1991,7,0,0,Europe
+France,1990,6,1,16.67,Europe
+France,1989,1,,,Europe
+France,1987,7,0,0,Europe
+France,1986,37,0,0,Europe
+France,1984,1,0,0,Europe
+France,1983,3,0,0,Europe
+France,1982,18,0,0,Europe
+France,1981,20,,,Europe
+France,1980,1,0,0,Europe
+France,1979,8,0,0,Europe
+France,1976,5,0,0,Europe
+France,1975,9,0,0,Europe
+France,1974,5,0,0,Europe
+France,1973,4,0,0,Europe
+France,1971,3,0,0,Europe
+France,1970,1,0,0,Europe
+Gabon,2008,2,0,0,Africa
+Gabon,2006,0,0,0,Africa
+Gabon,2005,0,0,0,Africa
+Gabon,2003,629,0,0,Africa
+Gabon,2002,6,,,Africa
+Gabon,1981,7,0,0,Africa
+Gabon,1979,5,2,40,Africa
+Gambia,2008,1,0,0,Africa
+Gambia,2007,12,1,8.33,Africa
+Gambia,2006,0,0,0,Africa
+Gambia,2005,214,13,6.07,Africa
+Gambia,1996,7,0,0,Africa
+Gambia,1995,15,0,0,Africa
+Gambia,1994,1,0,0,Africa
+Gambia,1985,2,0,0,Africa
+Georgia,1993,8,0,0,Europe
+Germany,2016,1,Unknown,Unknown,Europe
+Germany,2014,1,0,0.0,Europe
+Germany,2011,4 ,0,0.00,Europe
+Germany,2010,4,1,25.00,Europe
+Germany,2007,2,0,0,Europe
+Germany,2006,1,0,0,Europe
+Germany,2004,3,0,0.00,Europe
+Germany,2003,1,,,Europe
+Germany,2002,1,,,Europe
+Germany,2001,1,,,Europe
+Germany,2000,2,,,Europe
+Germany,1999,3,0,0,Europe
+Germany,1998,5,,,Europe
+Germany,1997,2,0,0,Europe
+Germany,1995,1,0,0,Europe
+Germany,1994,5,0,0,Europe
+Germany,1993,1,0,0,Europe
+Germany,1992,1,0,0,Europe
+Germany,1990,1,0,0,Europe
+Germany,1989,1,0,0,Europe
+Germany,1988,2,0,0,Europe
+Germany,1986,2,0,0,Europe
+Germany,1982,1,0,0,Europe
+Germany,1981,4,0,0,Europe
+Germany,1980,4,0,0,Europe
+Germany,1977,1,0,0,Europe
+Germany,1976,2,0,0,Europe
+Germany,1975,1,,,Europe
+Germany,1974,3,0,0,Europe
+Germany,1973,6,0,0,Europe
+Germany,1972,2,0,0,Europe
+Germany,1971,1,0,0,Europe
+Ghana,2016,175,0,0.0,Africa
+Ghana,2015,692,8,1.2,Africa
+Ghana,2014,28944,243,0.8,Africa
+Ghana,2013,50,0,0,Africa
+Ghana,2012,9548,100,1.05,Africa
+Ghana,2011,10628,105,0.99,Africa
+Ghana,2010,438,3,0.68,Africa
+Ghana,2009,1294,9,0.7,Africa
+Ghana,2008,1223,25,2.04,Africa
+Ghana,2007,179,18,10.06,Africa
+Ghana,2006,3357,107,3.19,Africa
+Ghana,2005,3166,51,1.61,Africa
+Ghana,2004,407,6,1.47,Africa
+Ghana,2003,204,4,1.96,Africa
+Ghana,2002,3614,65,1.8,Africa
+Ghana,2001,5487,160,2.92,Africa
+Ghana,2000,3331,74,2.22,Africa
+Ghana,1999,9432,260,2.76,Africa
+Ghana,1998,3426,108,3.15,Africa
+Ghana,1997,379,12,3.17,Africa
+Ghana,1996,1665,70,4.2,Africa
+Ghana,1995,4698,93,1.98,Africa
+Ghana,1994,2267,54,2.38,Africa
+Ghana,1993,1448,38,2.62,Africa
+Ghana,1992,228,23,10.09,Africa
+Ghana,1991,13172,409,3.11,Africa
+Ghana,1990,2937,60,2.04,Africa
+Ghana,1985,60,0,0,Africa
+Ghana,1984,1015,92,9.06,Africa
+Ghana,1983,14160,819,5.78,Africa
+Ghana,1982,11051,1225,11.09,Africa
+Ghana,1981,943,62,6.57,Africa
+Ghana,1980,260,21,8.08,Africa
+Ghana,1979,1783,113,6.34,Africa
+Ghana,1978,1853,120,6.48,Africa
+Ghana,1977,6565,353,5.38,Africa
+Ghana,1976,102,0,0,Africa
+Ghana,1975,187,10,5.35,Africa
+Ghana,1974,483,37,7.66,Africa
+Ghana,1973,677,39,5.76,Africa
+Ghana,1972,625,32,5.12,Africa
+Ghana,1971,13048,641,4.91,Africa
+Ghana,1970,2733,180,6.59,Africa
+Greece,1993,1,0,0,Europe
+Greece,1986,1,0,0,Europe
+Guatemala,2003,1,,,Americas
+Guatemala,2002,1,0,0,Americas
+Guatemala,2001,13,0,0,Americas
+Guatemala,2000,612,6,0.98,Americas
+Guatemala,1999,2077,0,0,Americas
+Guatemala,1998,5970,57,0.95,Americas
+Guatemala,1997,1263,0,0,Americas
+Guatemala,1996,1568,14,0.89,Americas
+Guatemala,1995,7970,95,1.19,Americas
+Guatemala,1994,5282,36,0.68,Americas
+Guatemala,1993,30604,306,1,Americas
+Guatemala,1992,15395,207,1.34,Americas
+Guatemala,1991,3674,50,1.36,Americas
+Guinea,2014,1,0,0,Africa
+Guinea,2013,319,32,10.03,Africa
+Guinea,2012,7350,133,1.81,Africa
+Guinea,2011,3,0,0,Africa
+Guinea,2009,42,0,0,Africa
+Guinea,2008,513,32,6.24,Africa
+Guinea,2007,8546,311,3.64,Africa
+Guinea,2006,3242,219,6.76,Africa
+Guinea,2005,3821,107,2.8,Africa
+Guinea,2004,1516,117,7.72,Africa
+Guinea,2003,6,1,16.67,Africa
+Guinea,2002,61,11,18.03,Africa
+Guinea,2001,392,22,5.61,Africa
+Guinea,2000,519,32,6.17,Africa
+Guinea,1999,599,28,4.67,Africa
+Guinea,1998,881,53,6.02,Africa
+Guinea,1996,287,17,5.92,Africa
+Guinea,1995,6506,565,8.68,Africa
+Guinea,1994,31415,671,2.14,Africa
+Guinea,1986,286,58,20.28,Africa
+Guinea,1970,2000,60,3,Africa
+Guinea-Bissau,2014,11,2,18.2,Africa
+Guinea-Bissau,2013,969,28,2.89,Africa
+Guinea-Bissau,2012,3068,22,0.72,Africa
+Guinea-Bissau,2009,5,0,0,Africa
+Guinea-Bissau,2008,14323,225,1.57,Africa
+Guinea-Bissau,2007,153,8,5.23,Africa
+Guinea-Bissau,2006,37,0,0,Africa
+Guinea-Bissau,2005,25111,399,1.59,Africa
+Guinea-Bissau,2004,155,3,1.94,Africa
+Guinea-Bissau,2003,290,2,0.69,Africa
+Guinea-Bissau,2002,842,6,0.71,Africa
+Guinea-Bissau,1998,126,2,1.59,Africa
+Guinea-Bissau,1997,20555,905,4.4,Africa
+Guinea-Bissau,1996,8397,84,1,Africa
+Guinea-Bissau,1995,119,0,0,Africa
+Guinea-Bissau,1994,15296,285,1.86,Africa
+Guinea-Bissau,1987,6000,68,1.13,Africa
+Guinea-Bissau,1986,200,50,25,Africa
+Guyana,1993,66,2,3.03,Americas
+Guyana,1992,576,8,1.39,Americas
+Haiti,2016,41421,447,1.1,Americas
+Haiti,2015,36045,322,0.9,Americas
+Haiti,2014,27753,296,1.1,Americas
+Haiti,2013,58809,593,1.01,Americas
+Haiti,2012,112076,894,0.8,Americas
+Haiti,2011,340311,2869,0.84,Americas
+Haiti,2010,179379,3990,2.22,Americas
+Honduras,2001,1,0,0,Americas
+Honduras,2000,8,0,0,Americas
+Honduras,1999,56,3,5.36,Americas
+Honduras,1998,306,13,4.25,Americas
+Honduras,1997,100,1,1,Americas
+Honduras,1996,708,14,1.98,Americas
+Honduras,1995,4717,77,1.63,Americas
+Honduras,1994,5049,102,2.02,Americas
+Honduras,1993,4013,102,2.54,Americas
+Honduras,1992,407,17,4.18,Americas
+Honduras,1991,17,0,0,Americas
+Hungary,1997,1,0,0,Europe
+India,2016,841,3,0.4,South-East Asia
+India,2015,889,4,0.4,South-East Asia
+India,2014,4031,21,0.5,South-East Asia
+India,2013,6008,54,0.9,South-East Asia
+India,2010,5155,9,0.17,South-East Asia
+India,2008,2680,1,0.04,South-East Asia
+India,2007,2635,3,0.11,South-East Asia
+India,2006,1939,3,0.15,South-East Asia
+India,2005,3155,6,0.19,South-East Asia
+India,2004,4695,7,0.15,South-East Asia
+India,2003,2893,2,0.07,South-East Asia
+India,2002,3455,10,0.29,South-East Asia
+India,2001,4081,6,0.15,South-East Asia
+India,2000,4053,20,0.49,South-East Asia
+India,1999,3839,6,0.16,South-East Asia
+India,1998,7151,11,0.15,South-East Asia
+India,1997,2768,16,0.58,South-East Asia
+India,1996,4396,34,0.77,South-East Asia
+India,1995,3315,5,0.15,South-East Asia
+India,1994,4973,32,0.64,South-East Asia
+India,1993,12084,51,0.42,South-East Asia
+India,1992,6911,55,0.8,South-East Asia
+India,1991,6993,149,2.13,South-East Asia
+India,1990,3583,83,2.32,South-East Asia
+India,1989,5640,93,1.65,South-East Asia
+India,1988,17162,380,2.21,South-East Asia
+India,1987,11934,240,2.01,South-East Asia
+India,1986,4208,70,1.66,South-East Asia
+India,1985,5808,155,2.67,South-East Asia
+India,1984,2527,27,1.07,South-East Asia
+India,1983,8542,309,3.62,South-East Asia
+India,1982,4656,213,4.57,South-East Asia
+India,1981,4681,150,3.2,South-East Asia
+India,1980,8344,307,3.68,South-East Asia
+India,1979,5073,113,2.23,South-East Asia
+India,1978,10585,246,2.32,South-East Asia
+India,1977,8376,289,3.45,South-East Asia
+India,1976,14946,662,4.43,South-East Asia
+India,1975,22049,2330,10.57,South-East Asia
+India,1974,30903,2289,7.41,South-East Asia
+India,1973,41611,5406,12.99,South-East Asia
+India,1972,20435,2845,13.92,South-East Asia
+India,1971,71386,10478,14.68,South-East Asia
+India,1970,15067,3420,22.7,South-East Asia
+India,1969,19280,,,South-East Asia
+India,1968,22587,,,South-East Asia
+India,1967,13708,,,South-East Asia
+India,1966,13052,2799,21.45,South-East Asia
+India,1965,42677,12664,29.67,South-East Asia
+India,1964,53011,17035,32.13,South-East Asia
+India,1963,44839,16357,36.48,South-East Asia
+India,1962,51082,27141,53.13,South-East Asia
+India,1961,47637,26946,56.57,South-East Asia
+India,1960,14621,,,South-East Asia
+India,1959,14852,7696,51.82,South-East Asia
+India,1958,66849,49818,74.52,South-East Asia
+India,1957,54961,49715,90.46,South-East Asia
+India,1956,39829,17206,43.2,South-East Asia
+India,1955,23533,7662,32.56,South-East Asia
+India,1954,22146,19368,87.46,South-East Asia
+India,1953,213225,124227,58.26,South-East Asia
+India,1952,101493,58252,57.4,South-East Asia
+India,1951,86787,41543,47.87,South-East Asia
+India,1950,625,396,63.36,South-East Asia
+Indonesia,2008,1007,27,2.68,South-East Asia
+Indonesia,2005,1338,19,1.42,South-East Asia
+Indonesia,2001,561,6,1.07,South-East Asia
+Indonesia,1997,66,0,0,South-East Asia
+Indonesia,1996,66,0,0,South-East Asia
+Indonesia,1994,47,0,0,South-East Asia
+Indonesia,1993,3564,25,0.7,South-East Asia
+Indonesia,1992,25,0,0,South-East Asia
+Indonesia,1991,6202,55,0.89,South-East Asia
+Indonesia,1990,155,0,0,South-East Asia
+Indonesia,1989,67,0,0,South-East Asia
+Indonesia,1988,50,0,0,South-East Asia
+Indonesia,1987,659,18,2.73,South-East Asia
+Indonesia,1986,11915,391,3.28,South-East Asia
+Indonesia,1985,4732,85,1.8,South-East Asia
+Indonesia,1984,7921,59,0.74,South-East Asia
+Indonesia,1983,13832,346,2.5,South-East Asia
+Indonesia,1982,10391,535,5.15,South-East Asia
+Indonesia,1981,18354,463,2.52,South-East Asia
+Indonesia,1980,5541,150,2.71,South-East Asia
+Indonesia,1979,18817,769,4.09,South-East Asia
+Indonesia,1978,10683,507,4.75,South-East Asia
+Indonesia,1977,17112,780,4.56,South-East Asia
+Indonesia,1976,41264,2665,6.46,South-East Asia
+Indonesia,1975,48387,3715,7.68,South-East Asia
+Indonesia,1974,41474,3920,9.45,South-East Asia
+Indonesia,1973,52042,3058,5.88,South-East Asia
+Indonesia,1972,44383,6956,15.67,South-East Asia
+Indonesia,1971,23555,3607,15.31,South-East Asia
+Indonesia,1970,5997,1257,20.96,South-East Asia
+Indonesia,1969,627,262,41.79,South-East Asia
+Indonesia,1968,135,22,16.3,South-East Asia
+Indonesia,1967,700,139,19.86,South-East Asia
+Indonesia,1966,204,36,17.65,South-East Asia
+Indonesia,1964,326,69,21.17,South-East Asia
+Indonesia,1963,535,83,15.51,South-East Asia
+Indonesia,1962,428,80,18.69,South-East Asia
+Indonesia,1961,1742,474,27.21,South-East Asia
+Indonesia,1960,41,22,53.66,South-East Asia
+Iran (Islamic Republic of),2015,86,1,1.2,Eastern Mediterranean
+Iran (Islamic Republic of),2013,256,7,2.73,Eastern Mediterranean
+Iran (Islamic Republic of),2012,53,0,0,Eastern Mediterranean
+Iran (Islamic Republic of),2011,1187,12,1.01,Eastern Mediterranean
+Iran (Islamic Republic of),2008,72,4,5.56,Eastern Mediterranean
+Iran (Islamic Republic of),2007,19,0,0,Eastern Mediterranean
+Iran (Islamic Republic of),2005,1133,11,0.97,Eastern Mediterranean
+Iran (Islamic Republic of),2004,94,1,1.06,Eastern Mediterranean
+Iran (Islamic Republic of),2003,96,0,0,Eastern Mediterranean
+Iran (Islamic Republic of),2002,118,,,Eastern Mediterranean
+Iran (Islamic Republic of),2001,105,,,Eastern Mediterranean
+Iran (Islamic Republic of),2000,345,3,0.87,Eastern Mediterranean
+Iran (Islamic Republic of),1999,1369,21,1.53,Eastern Mediterranean
+Iran (Islamic Republic of),1998,270,1,0.37,Eastern Mediterranean
+Iran (Islamic Republic of),1997,1106,9,0.81,Eastern Mediterranean
+Iran (Islamic Republic of),1995,2177,59,2.71,Eastern Mediterranean
+Iran (Islamic Republic of),1994,15,0,0,Eastern Mediterranean
+Iran (Islamic Republic of),1993,1347,5,0.37,Eastern Mediterranean
+Iran (Islamic Republic of),1992,97,4,4.12,Eastern Mediterranean
+Iran (Islamic Republic of),1991,1892,32,1.69,Eastern Mediterranean
+Iran (Islamic Republic of),1990,178,3,1.69,Eastern Mediterranean
+Iran (Islamic Republic of),1989,5222,85,1.63,Eastern Mediterranean
+Iran (Islamic Republic of),1988,486,15,3.09,Eastern Mediterranean
+Iran (Islamic Republic of),1987,295,4,1.36,Eastern Mediterranean
+Iran (Islamic Republic of),1986,20,1,5,Eastern Mediterranean
+Iran (Islamic Republic of),1985,1208,9,0.75,Eastern Mediterranean
+Iran (Islamic Republic of),1984,531,5,0.94,Eastern Mediterranean
+Iran (Islamic Republic of),1983,270,0,0,Eastern Mediterranean
+Iran (Islamic Republic of),1982,427,0,0,Eastern Mediterranean
+Iran (Islamic Republic of),1981,6034,108,1.79,Eastern Mediterranean
+Iran (Islamic Republic of),1980,1599,32,2,Eastern Mediterranean
+Iran (Islamic Republic of),1979,1856,56,3.02,Eastern Mediterranean
+Iran (Islamic Republic of),1978,264,,,Eastern Mediterranean
+Iran (Islamic Republic of),1977,10836,,,Eastern Mediterranean
+Iran (Islamic Republic of),1976,2100,,,Eastern Mediterranean
+Iran (Islamic Republic of),1975,2966,,,Eastern Mediterranean
+Iran (Islamic Republic of),1974,304,,,Eastern Mediterranean
+Iran (Islamic Republic of),1973,55,,,Eastern Mediterranean
+Iran (Islamic Republic of),1972,322,,,Eastern Mediterranean
+Iran (Islamic Republic of),1971,344,,,Eastern Mediterranean
+Iran (Islamic Republic of),1970,19663,,,Eastern Mediterranean
+Iran (Islamic Republic of),1969,557,,,Eastern Mediterranean
+Iran (Islamic Republic of),1967,221,,,Eastern Mediterranean
+Iran (Islamic Republic of),1966,162,,,Eastern Mediterranean
+Iran (Islamic Republic of),1965,5037,,,Eastern Mediterranean
+Iraq,2016,3 5,0 0,0.0 0.0,Eastern Mediterranean
+Iraq,2015,4965,2,0.04,Eastern Mediterranean
+Iraq,2013,1,0,0,Eastern Mediterranean
+Iraq,2012,4693,4,0,Eastern Mediterranean
+Iraq,2010,2,0,0.00,Eastern Mediterranean
+Iraq,2009,6,0,0,Eastern Mediterranean
+Iraq,2008,925,11,1.19,Eastern Mediterranean
+Iraq,2007,4697,24,0.51,Eastern Mediterranean
+Iraq,2004,35,0,0.00,Eastern Mediterranean
+Iraq,2003,187,0,0,Eastern Mediterranean
+Iraq,2002,718,,,Eastern Mediterranean
+Iraq,2001,560,,,Eastern Mediterranean
+Iraq,2000,532,4,0.75,Eastern Mediterranean
+Iraq,1999,1985,30,1.51,Eastern Mediterranean
+Iraq,1998,53,1,1.89,Eastern Mediterranean
+Iraq,1996,1,0,0,Eastern Mediterranean
+Iraq,1995,820,3,0.37,Eastern Mediterranean
+Iraq,1994,838,0,0,Eastern Mediterranean
+Iraq,1993,280,0,0,Eastern Mediterranean
+Iraq,1992,97,0,0,Eastern Mediterranean
+Iraq,1991,877,6,0.68,Eastern Mediterranean
+Iraq,1978,96,0,0,Eastern Mediterranean
+Iraq,1977,133,1,0.75,Eastern Mediterranean
+Iraq,1966,227,20,8.81,Eastern Mediterranean
+Ireland,2001,1,,,Europe
+Israel,2013,1,0,0,Europe
+Israel,1988,1,0,0,Europe
+Israel,1987,2,0,0,Europe
+Israel,1982,1,0,0,Europe
+Israel,1972,11,0,0,Europe
+Israel,1971,1,0,0,Europe
+Israel,1970,185,10,5.41,Europe
+Italy,2013,1,0,0,Europe
+Italy,2007,1,0,0,Europe
+Italy,2006,1,0,0,Europe
+Italy,1998,2,9,450,Europe
+Italy,1995,1,0,0,Europe
+Italy,1994,12,9,75,Europe
+Italy,1979,8,0,0,Europe
+Italy,1977,2,0,0,Europe
+Italy,1975,1,0,0,Europe
+Italy,1973,278,23,8.27,Europe
+Japan,2016,10,0,0.0,Western Pacific
+Japan,2015,7,,,Western Pacific
+Japan,2014,5,0,0.0,Western Pacific
+Japan,2013,8,0,0,Western Pacific
+Japan,2012,3,0,0,Western Pacific
+Japan,2011,12 ,,0.00,Western Pacific
+Japan,2007,0,0,0,Western Pacific
+Japan,2006,34,0,0,Western Pacific
+Japan,2005,43,0,0,Western Pacific
+Japan,2004,66,0,0.00,Western Pacific
+Japan,2003,16,0,0,Western Pacific
+Japan,2002,27,0,0,Western Pacific
+Japan,2001,11,,,Western Pacific
+Japan,2000,34,0,0,Western Pacific
+Japan,1999,40,0,0,Western Pacific
+Japan,1998,60,0,0,Western Pacific
+Japan,1997,89,0,0,Western Pacific
+Japan,1996,39,0,0,Western Pacific
+Japan,1995,321,1,0.31,Western Pacific
+Japan,1994,91,0,0,Western Pacific
+Japan,1993,89,0,0,Western Pacific
+Japan,1992,46,0,0,Western Pacific
+Japan,1991,90,1,1.11,Western Pacific
+Japan,1990,73,0,0,Western Pacific
+Japan,1989,95,0,0,Western Pacific
+Japan,1988,33,0,0,Western Pacific
+Japan,1987,34,0,0,Western Pacific
+Japan,1986,26,0,0,Western Pacific
+Japan,1985,36,0,0,Western Pacific
+Japan,1984,55,0,0,Western Pacific
+Japan,1983,35,0,0,Western Pacific
+Japan,1982,16,0,0,Western Pacific
+Japan,1981,19,0,0,Western Pacific
+Japan,1980,23,0,0,Western Pacific
+Japan,1979,11,0,0,Western Pacific
+Japan,1978,34,1,2.94,Western Pacific
+Japan,1977,52,1,1.92,Western Pacific
+Japan,1976,6,0,0,Western Pacific
+Japan,1975,3,0,0,Western Pacific
+Japan,1970,5,,,Western Pacific
+Japan,1969,8,,,Western Pacific
+Japan,1964,2,1,50,Western Pacific
+Japan,1963,16,0,0,Western Pacific
+Jordan,1990,2,0,0,Eastern Mediterranean
+Jordan,1981,870,4,0.46,Eastern Mediterranean
+Jordan,1979,141,0,0,Eastern Mediterranean
+Jordan,1977,427,1,0.23,Eastern Mediterranean
+Jordan,1976,152,0,0,Eastern Mediterranean
+Jordan,1970,3,0,0,Eastern Mediterranean
+Kazakhstan,2008,1,0,0,Europe
+Kazakhstan,2001,1,,,Europe
+Kazakhstan,1997,4,0,0,Europe
+Kazakhstan,1995,16,0,0,Europe
+Kazakhstan,1994,3,0,0,Europe
+Kazakhstan,1993,74,0,0,Europe
+Kenya,2016,5866,80,1.4,Africa
+Kenya,2015,13291,67,0.5,Africa
+Kenya,2014,35,9,25.7,Africa
+Kenya,2011,74,2,2.7,Africa
+Kenya,2010,3188,63,1.98,Africa
+Kenya,2009,11425,264,2.31,Africa
+Kenya,2008,3091,113,3.66,Africa
+Kenya,2007,1206,67,5.56,Africa
+Kenya,2006,870,11,1.26,Africa
+Kenya,2005,816,21,2.57,Africa
+Kenya,2004,870,15,1.72,Africa
+Kenya,2002,291,10,3.44,Africa
+Kenya,2001,1001,55,5.49,Africa
+Kenya,2000,1157,78,6.74,Africa
+Kenya,1999,11039,350,3.17,Africa
+Kenya,1998,22432,1237,5.51,Africa
+Kenya,1997,17200,555,3.23,Africa
+Kenya,1996,482,14,2.9,Africa
+Kenya,1995,1547,39,2.52,Africa
+Kenya,1994,880,28,3.18,Africa
+Kenya,1992,3388,100,2.95,Africa
+Kenya,1989,918,32,3.49,Africa
+Kenya,1987,255,12,4.71,Africa
+Kenya,1986,839,45,5.36,Africa
+Kenya,1985,1352,102,7.54,Africa
+Kenya,1984,14,0,0,Africa
+Kenya,1983,1049,53,5.05,Africa
+Kenya,1982,3498,91,2.6,Africa
+Kenya,1981,2424,108,4.46,Africa
+Kenya,1980,2808,42,1.5,Africa
+Kenya,1979,1070,2,0.19,Africa
+Kenya,1978,673,17,2.53,Africa
+Kenya,1977,21,0,0,Africa
+Kenya,1976,1359,59,4.34,Africa
+Kenya,1975,1093,74,6.77,Africa
+Kenya,1974,402,20,4.98,Africa
+Kenya,1972,51,0,0,Africa
+Kenya,1971,239,38,15.9,Africa
+Kiribati,1978,494,0,0,Western Pacific
+Kiribati,1977,1307,21,1.61,Western Pacific
+Kuwait,2015,5,0,0,Eastern Mediterranean
+Kuwait,1997,1,,,Eastern Mediterranean
+Kuwait,1993,1,0,0,Eastern Mediterranean
+Kuwait,1989,133,0,0,Eastern Mediterranean
+Kuwait,1986,38,0,0,Eastern Mediterranean
+Kuwait,1985,113,0,0,Eastern Mediterranean
+Kuwait,1981,8,0,0,Eastern Mediterranean
+Kuwait,1979,3,0,0,Eastern Mediterranean
+Kuwait,1978,1,0,0,Eastern Mediterranean
+Kuwait,1977,13,0,0,Eastern Mediterranean
+Kuwait,1976,2,0,0,Eastern Mediterranean
+Kuwait,1975,3,1,33.33,Eastern Mediterranean
+Kuwait,1970,4,0,0,Eastern Mediterranean
+Kyrgyzstan,1994,4,0,0,Europe
+Lao People's Democratic Republic,2010,237,4,1.69,Western Pacific
+Lao People's Democratic Republic,2008,201,0,0,Western Pacific
+Lao People's Democratic Republic,2007,169,3,1.78,Western Pacific
+Lao People's Democratic Republic,1996,720,33,4.58,Western Pacific
+Lao People's Democratic Republic,1995,1365,174,12.75,Western Pacific
+Lao People's Democratic Republic,1994,9660,606,6.27,Western Pacific
+Lao People's Democratic Republic,1993,5521,255,4.62,Western Pacific
+Lao People's Democratic Republic,1969,448,21,4.69,Western Pacific
+Lao People's Democratic Republic,1953,31,18,58.06,Western Pacific
+Lebanon,2005,1,0,0,Eastern Mediterranean
+Lebanon,1994,3,,,Eastern Mediterranean
+Lebanon,1993,344,23,6.69,Eastern Mediterranean
+Lebanon,1977,30,0,0,Eastern Mediterranean
+Lebanon,1970,54,1,1.85,Eastern Mediterranean
+Lesotho,2006,0,0,0,Africa
+Lesotho,2005,0,0,0,Africa
+Liberia,2014,44,0,0,Africa
+Liberia,2013,92,0,0,Africa
+Liberia,2012,219,0,0,Africa
+Liberia,2011,1146,,0,Africa
+Liberia,2010,1546,0,0.00,Africa
+Liberia,2009,1070,2,0.19,Africa
+Liberia,2008,1236,3,0.24,Africa
+Liberia,2007,3063,7,0.23,Africa
+Liberia,2006,4929,17,0.34,Africa
+Liberia,2005,3823,18,0.47,Africa
+Liberia,2004,2786,4,0.14,Africa
+Liberia,2003,34740,38,0.11,Africa
+Liberia,2002,1115,0,0,Africa
+Liberia,2001,1062,0,0,Africa
+Liberia,2000,365,10,2.74,Africa
+Liberia,1999,215,0,0,Africa
+Liberia,1998,2123,17,0.8,Africa
+Liberia,1997,91,0,0,Africa
+Liberia,1996,8922,169,1.89,Africa
+Liberia,1995,3420,126,3.68,Africa
+Liberia,1994,764,17,2.23,Africa
+Liberia,1991,132,40,30.3,Africa
+Liberia,1989,28,0,0,Africa
+Liberia,1988,68,1,1.47,Africa
+Liberia,1987,33,1,3.03,Africa
+Liberia,1986,59,0,0,Africa
+Liberia,1985,355,3,0.85,Africa
+Liberia,1984,492,8,1.63,Africa
+Liberia,1983,183,12,6.56,Africa
+Liberia,1982,670,8,1.19,Africa
+Liberia,1981,1582,33,2.09,Africa
+Liberia,1980,2690,55,2.04,Africa
+Liberia,1979,438,6,1.37,Africa
+Liberia,1978,422,9,2.13,Africa
+Liberia,1977,512,18,3.52,Africa
+Liberia,1976,646,10,1.55,Africa
+Liberia,1975,704,16,2.27,Africa
+Liberia,1974,512,12,2.34,Africa
+Liberia,1973,1336,27,2.02,Africa
+Liberia,1972,947,28,2.96,Africa
+Liberia,1971,606,106,17.49,Africa
+Liberia,1970,168,27,16.07,Africa
+Libya,1995,22,2,9.09,Eastern Mediterranean
+Libya,1970,1151,28,2.43,Eastern Mediterranean
+Madagascar,2006,0,0,0,Africa
+Madagascar,2005,0,0,0,Africa
+Madagascar,2003,5,0,0,Africa
+Madagascar,2002,27,0,0,Africa
+Madagascar,2001,7219,413,5.72,Africa
+Madagascar,2000,29305,1672,5.71,Africa
+Madagascar,1999,9973,549,5.5,Africa
+Madagascar,1996,0,0,0,Africa
+Madagascar,1971,2,0,0,Africa
+Malawi,2016,1792,46,2.6,Africa
+Malawi,2015,693,11,1.6,Africa
+Malawi,2012,187,2,1.07,Africa
+Malawi,2011,120,4,3.33,Africa
+Malawi,2010,1155,17,1.47,Africa
+Malawi,2009,5751,125,2.17,Africa
+Malawi,2008,831,26,3.13,Africa
+Malawi,2007,475,5,1.05,Africa
+Malawi,2006,4148,55,1.32,Africa
+Malawi,2005,1105,11,1,Africa
+Malawi,2004,675,4,0.59,Africa
+Malawi,2003,2736,34,1.24,Africa
+Malawi,2002,32618,911,2.79,Africa
+Malawi,2001,2395,42,1.75,Africa
+Malawi,2000,2391,56,2.34,Africa
+Malawi,1999,26508,648,2.44,Africa
+Malawi,1998,1745,74,4.24,Africa
+Malawi,1997,130,15,11.54,Africa
+Malawi,1996,1,0,0,Africa
+Malawi,1995,1,0,0,Africa
+Malawi,1994,107,11,10.28,Africa
+Malawi,1993,25193,524,2.08,Africa
+Malawi,1992,298,8,2.68,Africa
+Malawi,1991,8088,245,3.03,Africa
+Malawi,1990,13457,481,3.57,Africa
+Malawi,1989,8351,16,0.19,Africa
+Malawi,1988,6,0,0,Africa
+Malawi,1983,487,49,10.06,Africa
+Malawi,1981,261,0,0,Africa
+Malawi,1978,263,24,9.13,Africa
+Malawi,1977,577,0,0,Africa
+Malawi,1976,19,0,0,Africa
+Malawi,1973,371,20,5.39,Africa
+Malaysia,2015,244,2,0.8,Western Pacific
+Malaysia,2014,134,1,0.7,Western Pacific
+Malaysia,2013,171,1,0.58,Western Pacific
+Malaysia,2012,282,1,0.4,Western Pacific
+Malaysia,2011,586 ,10,1.71,Western Pacific
+Malaysia,2010,443,6,1.35,Western Pacific
+Malaysia,2009,187,1,0.53,Western Pacific
+Malaysia,2007,0,0,0,Western Pacific
+Malaysia,2006,237,2,0.84,Western Pacific
+Malaysia,2004,16,0,0.00,Western Pacific
+Malaysia,2001,557,11,1.97,Western Pacific
+Malaysia,2000,124,1,0.81,Western Pacific
+Malaysia,1999,535,0,0,Western Pacific
+Malaysia,1998,1304,19,1.46,Western Pacific
+Malaysia,1997,389,4,1.03,Western Pacific
+Malaysia,1996,1486,0,0,Western Pacific
+Malaysia,1995,2209,27,1.22,Western Pacific
+Malaysia,1994,534,0,0,Western Pacific
+Malaysia,1993,995,13,1.31,Western Pacific
+Malaysia,1992,474,8,1.69,Western Pacific
+Malaysia,1991,506,6,1.19,Western Pacific
+Malaysia,1990,2071,38,1.83,Western Pacific
+Malaysia,1989,393,14,3.56,Western Pacific
+Malaysia,1988,1324,32,2.42,Western Pacific
+Malaysia,1987,1168,18,1.54,Western Pacific
+Malaysia,1986,55,2,3.64,Western Pacific
+Malaysia,1985,52,2,3.85,Western Pacific
+Malaysia,1984,67,1,1.49,Western Pacific
+Malaysia,1983,2195,38,1.73,Western Pacific
+Malaysia,1982,516,17,3.29,Western Pacific
+Malaysia,1981,469,14,2.99,Western Pacific
+Malaysia,1980,97,7,7.22,Western Pacific
+Malaysia,1979,502,10,1.99,Western Pacific
+Malaysia,1978,1635,64,3.91,Western Pacific
+Malaysia,1977,444,12,2.7,Western Pacific
+Malaysia,1976,246,4,1.63,Western Pacific
+Malaysia,1975,110,8,7.27,Western Pacific
+Malaysia,1974,349,0,0,Western Pacific
+Malaysia,1973,369,17,4.61,Western Pacific
+Malaysia,1972,864,11,1.27,Western Pacific
+Malaysia,1971,53,1,1.89,Western Pacific
+Malaysia,1970,106,3,2.83,Western Pacific
+Malaysia,1969,70,,,Western Pacific
+Malaysia,1968,15,3,20,Western Pacific
+Malaysia,1966,5,0,0,Western Pacific
+Malaysia,1965,16,1,6.25,Western Pacific
+Malaysia,1964,512,143,27.93,Western Pacific
+Malaysia,1963,349,24,6.88,Western Pacific
+Malaysia,1954,1,0,0,Western Pacific
+Maldives,1978,11336,220,1.94,South-East Asia
+Mali,2013,23,2,8.7,Africa
+Mali,2012,219,19,8.68,Africa
+Mali,2011,2220,95,4.28,Africa
+Mali,2008,153,5,3.27,Africa
+Mali,2006,7,0,0,Africa
+Mali,2005,1178,76,6.45,Africa
+Mali,2004,2839,205,7.22,Africa
+Mali,2003,1455,119,8.18,Africa
+Mali,2002,18,2,11.11,Africa
+Mali,2001,67,9,13.43,Africa
+Mali,2000,1885,51,2.71,Africa
+Mali,1999,6,3,50,Africa
+Mali,1997,6,3,50,Africa
+Mali,1996,5723,761,13.3,Africa
+Mali,1995,2191,231,10.54,Africa
+Mali,1987,352,84,23.86,Africa
+Mali,1986,1916,151,7.88,Africa
+Mali,1985,3759,838,22.29,Africa
+Mali,1984,1795,406,22.62,Africa
+Mali,1974,130,21,16.15,Africa
+Mali,1973,219,32,14.61,Africa
+Mali,1972,2,0,0,Africa
+Mali,1971,4792,1321,27.57,Africa
+Mali,1970,2665,201,7.54,Africa
+Marshall Islands,2000,300,6,2,Western Pacific
+Mauritania,2011,46,3,6.52,Africa
+Mauritania,2007,3,0,0,Africa
+Mauritania,2006,25,0,0,Africa
+Mauritania,2005,4132,70,1.69,Africa
+Mauritania,2003,34,8,23.53,Africa
+Mauritania,2002,80,0,0,Africa
+Mauritania,1997,462,7,1.52,Africa
+Mauritania,1996,4534,148,3.26,Africa
+Mauritania,1989,700,27,3.86,Africa
+Mauritania,1988,575,38,6.61,Africa
+Mauritania,1987,1578,101,6.4,Africa
+Mauritania,1986,3734,113,3.03,Africa
+Mauritania,1985,259,20,7.72,Africa
+Mauritania,1984,166,15,9.04,Africa
+Mauritania,1973,150,22,14.67,Africa
+Mauritania,1972,148,24,16.22,Africa
+Mauritania,1971,1139,53,4.65,Africa
+Mauritius,2006,0,0,0,Africa
+Mauritius,2005,0,0,0,Africa
+Mexico,2015,1,0,0,Americas
+Mexico,2014,14,0,0.0,Americas
+Mexico,2013,187,1,0.53,Americas
+Mexico,2012,2,0,0,Americas
+Mexico,2011,1,0,0.00,Americas
+Mexico,2010,1,0,0.00,Americas
+Mexico,2008,1,0,0,Americas
+Mexico,2001,1,0,0,Americas
+Mexico,2000,5,0,0,Americas
+Mexico,1998,71,0,0,Americas
+Mexico,1997,2356,1,0.04,Americas
+Mexico,1996,1088,5,0.46,Americas
+Mexico,1995,16430,137,0.83,Americas
+Mexico,1994,4059,56,1.38,Americas
+Mexico,1993,10712,193,1.8,Americas
+Mexico,1992,8162,99,1.21,Americas
+Mexico,1991,2690,34,1.26,Americas
+Micronesia (Federated States of),2005,0,0,0,Western Pacific
+Micronesia (Federated States of),2001,14,0,0,Western Pacific
+Micronesia (Federated States of),2000,3452,20,0.58,Western Pacific
+Micronesia (Federated States of),1996,1,0,0,Western Pacific
+Micronesia (Federated States of),1990,34,1,2.94,Western Pacific
+Mongolia,2005,0,0,0,Western Pacific
+Mongolia,1996,177,12,6.78,Western Pacific
+Morocco,1994,6,0,0,Eastern Mediterranean
+Morocco,1990,4573,137,3,Eastern Mediterranean
+Morocco,1976,2,0,0,Eastern Mediterranean
+Morocco,1972,7,0,0,Eastern Mediterranean
+Morocco,1971,56,0,0,Eastern Mediterranean
+Mozambique,2016,883,2,0.2,Africa
+Mozambique,2015,8739,64,0.7,Africa
+Mozambique,2014,480,1,0.2,Africa
+Mozambique,2013,1869,19,1.02,Africa
+Mozambique,2012,647,7,1.08,Africa
+Mozambique,2011,1279,5,0.39,Africa
+Mozambique,2010,7430,117,1.57,Africa
+Mozambique,2009,19679,155,0.79,Africa
+Mozambique,2008,9087,102,1.12,Africa
+Mozambique,2007,2622,22,0.84,Africa
+Mozambique,2006,6306,29,0.46,Africa
+Mozambique,2005,2226,24,1.08,Africa
+Mozambique,2004,20080,110,0.55,Africa
+Mozambique,2003,13758,102,0.74,Africa
+Mozambique,2002,24375,342,1.4,Africa
+Mozambique,2001,8794,102,1.16,Africa
+Mozambique,2000,17649,238,1.35,Africa
+Mozambique,1999,44329,1194,2.69,Africa
+Mozambique,1998,42672,1353,3.17,Africa
+Mozambique,1997,8739,259,2.96,Africa
+Mozambique,1996,0,0,0,Africa
+Mozambique,1994,692,27,3.9,Africa
+Mozambique,1993,19803,507,2.56,Africa
+Mozambique,1992,30802,727,2.36,Africa
+Mozambique,1991,7847,328,4.18,Africa
+Mozambique,1990,4152,194,4.67,Africa
+Mozambique,1989,371,12,3.23,Africa
+Mozambique,1986,1,0,0,Africa
+Mozambique,1985,3,0,0,Africa
+Mozambique,1984,521,11,2.11,Africa
+Mozambique,1983,10745,447,4.16,Africa
+Mozambique,1982,2301,199,8.65,Africa
+Mozambique,1981,1753,132,7.53,Africa
+Mozambique,1980,1212,85,7.01,Africa
+Mozambique,1979,4564,547,11.99,Africa
+Mozambique,1977,18,3,16.67,Africa
+Mozambique,1976,3,2,66.67,Africa
+Mozambique,1975,11,3,27.27,Africa
+Mozambique,1974,1018,138,13.56,Africa
+Mozambique,1973,453,87,19.21,Africa
+Myanmar,2016,782,11,1.4,South-East Asia
+Myanmar,2015,103,12,11.7,South-East Asia
+Myanmar,2014,400,,,South-East Asia
+Myanmar,2013,33,0,0,South-East Asia
+Myanmar,2012,174,0,0,South-East Asia
+Myanmar,2011,16,,0.00,South-East Asia
+Myanmar,2008,45,1,2.22,South-East Asia
+Myanmar,1995,1296,6,0.46,South-East Asia
+Myanmar,1994,421,4,0.95,South-East Asia
+Myanmar,1993,1758,52,2.96,South-East Asia
+Myanmar,1992,826,50,6.05,South-East Asia
+Myanmar,1991,924,39,4.22,South-East Asia
+Myanmar,1989,597,11,1.84,South-East Asia
+Myanmar,1983,989,29,2.93,South-East Asia
+Myanmar,1981,28,3,10.71,South-East Asia
+Myanmar,1980,1018,50,4.91,South-East Asia
+Myanmar,1979,874,75,8.58,South-East Asia
+Myanmar,1978,3551,372,10.48,South-East Asia
+Myanmar,1976,1519,173,11.39,South-East Asia
+Myanmar,1975,2942,172,5.85,South-East Asia
+Myanmar,1974,2363,203,8.59,South-East Asia
+Myanmar,1973,386,24,6.22,South-East Asia
+Myanmar,1972,180,7,3.89,South-East Asia
+Myanmar,1971,378,42,11.11,South-East Asia
+Myanmar,1970,911,76,8.34,South-East Asia
+Myanmar,1969,205,34,16.59,South-East Asia
+Myanmar,1968,3,0,0,South-East Asia
+Myanmar,1967,9,0,0,South-East Asia
+Myanmar,1966,263,17,6.46,South-East Asia
+Myanmar,1965,207,8,3.86,South-East Asia
+Myanmar,1964,922,171,18.55,South-East Asia
+Myanmar,1963,3019,783,25.94,South-East Asia
+Myanmar,1962,1,0,0,South-East Asia
+Myanmar,1961,1,0,0,South-East Asia
+Myanmar,1960,259,200,77.22,South-East Asia
+Myanmar,1959,3,2,66.67,South-East Asia
+Myanmar,1958,7,3,42.86,South-East Asia
+Myanmar,1957,10,3,30,South-East Asia
+Myanmar,1956,13,6,46.15,South-East Asia
+Myanmar,1955,42,12,28.57,South-East Asia
+Myanmar,1954,35,19,54.29,South-East Asia
+Myanmar,1953,22,9,40.91,South-East Asia
+Myanmar,1952,347,245,70.61,South-East Asia
+Myanmar,1951,6753,4685,69.38,South-East Asia
+Myanmar,1950,4212,2785,66.12,South-East Asia
+Namibia,2014,485,13,2.7,Africa
+Namibia,2013,3,0,0,Africa
+Namibia,2009,159,3,1.89,Africa
+Namibia,2008,3496,38,1.09,Africa
+Namibia,2007,14,0,0,Africa
+Namibia,2006,185,5,2.7,Africa
+Namibia,2005,0,0,0,Africa
+Nauru,1979,50,0,0,Western Pacific
+Nauru,1978,38,0,0,Western Pacific
+Nepal,2016,169,0,0.0,South-East Asia
+Nepal,2015,80,0,0,South-East Asia
+Nepal,2014,933,2,0.2,South-East Asia
+Nepal,2012,34,0,0,South-East Asia
+Nepal,2011,12,,0.00,South-East Asia
+Nepal,2010,1790,9,0.50,South-East Asia
+Nepal,2009,82,0,0,South-East Asia
+Nepal,2007,264,0,0,South-East Asia
+Nepal,1998,1745,17,0.97,South-East Asia
+Nepal,1997,245,0,0,South-East Asia
+Nepal,1996,274,1,0.37,South-East Asia
+Nepal,1995,157,0,0,South-East Asia
+Nepal,1994,32,0,0,South-East Asia
+Nepal,1993,31,0,0,South-East Asia
+Nepal,1992,798,15,1.88,South-East Asia
+Nepal,1991,30648,873,2.85,South-East Asia
+Nepal,1990,23888,495,2.07,South-East Asia
+Nepal,1989,141,2,1.42,South-East Asia
+Nepal,1981,24,0,0,South-East Asia
+Nepal,1980,1,0,0,South-East Asia
+Nepal,1979,22,0,0,South-East Asia
+Nepal,1978,1662,10,0.6,South-East Asia
+Nepal,1977,428,4,0.93,South-East Asia
+Nepal,1976,185,1,0.54,South-East Asia
+Nepal,1975,260,0,0,South-East Asia
+Nepal,1974,8,0,0,South-East Asia
+Nepal,1973,7,0,0,South-East Asia
+Nepal,1972,1,0,0,South-East Asia
+Nepal,1971,4,0,0,South-East Asia
+Nepal,1970,391,1,0.26,South-East Asia
+Nepal,1969,226,6,2.65,South-East Asia
+Nepal,1968,34,17,50,South-East Asia
+Nepal,1966,2,0,0,South-East Asia
+Nepal,1965,727,97,13.34,South-East Asia
+Nepal,1958,2706,384,14.19,South-East Asia
+Netherlands,2016,1,0,0.0,Europe
+Netherlands,2008,5,0,0,Europe
+Netherlands,2006,3,0,0,Europe
+Netherlands,2005,4,0,0,Europe
+Netherlands,2004,1,0,0.00,Europe
+Netherlands,2003,1,,,Europe
+Netherlands,2002,1,,,Europe
+Netherlands,2000,1,,,Europe
+Netherlands,1999,2,0,0,Europe
+Netherlands,1998,4,0,0,Europe
+Netherlands,1997,2,0,0,Europe
+Netherlands,1996,3,0,0,Europe
+Netherlands,1995,9,0,0,Europe
+Netherlands,1994,1,0,0,Europe
+Netherlands,1993,3,0,0,Europe
+Netherlands,1990,3,0,0,Europe
+Netherlands,1988,1,0,0,Europe
+Netherlands,1983,2,0,0,Europe
+Netherlands,1981,2,,,Europe
+Netherlands,1979,5,0,0,Europe
+Netherlands,1978,4,0,0,Europe
+Netherlands,1977,1,0,0,Europe
+Netherlands,1976,1,1,100,Europe
+New Zealand,2005,1,0,0,Western Pacific
+New Zealand,2001,1,,,Western Pacific
+New Zealand,1999,1,0,0,Western Pacific
+New Zealand,1998,1,0,0,Western Pacific
+New Zealand,1995,2,0,0,Western Pacific
+New Zealand,1994,2,0,0,Western Pacific
+New Zealand,1990,5,0,0,Western Pacific
+New Zealand,1987,2,0,0,Western Pacific
+New Zealand,1972,3,1,33.33,Western Pacific
+Nicaragua,2000,12,0,0,Americas
+Nicaragua,1999,552,7,1.27,Americas
+Nicaragua,1998,1437,29,2.02,Americas
+Nicaragua,1997,1283,36,2.81,Americas
+Nicaragua,1996,2813,107,3.8,Americas
+Nicaragua,1995,8825,164,1.86,Americas
+Nicaragua,1994,7821,134,1.71,Americas
+Nicaragua,1993,6631,220,3.32,Americas
+Nicaragua,1992,3067,46,1.5,Americas
+Nicaragua,1991,1,0,0,Americas
+Niger,2016,38,6,15.8,Africa
+Niger,2015,51,4,7.8,Africa
+Niger,2014,2059,80,3.9,Africa
+Niger,2013,585,13,2.22,Africa
+Niger,2012,5284,110,2.08,Africa
+Niger,2011,2324,60,2.58,Africa
+Niger,2010,1154,66,5.72,Africa
+Niger,2008,972,70,7.2,Africa
+Niger,2007,24,2,8.33,Africa
+Niger,2006,1232,81,6.57,Africa
+Niger,2005,553,55,9.95,Africa
+Niger,2004,2178,57,2.62,Africa
+Niger,2003,292,11,3.77,Africa
+Niger,2002,236,12,5.08,Africa
+Niger,2001,81,1,1.23,Africa
+Niger,2000,225,38,16.89,Africa
+Niger,1999,1186,85,7.17,Africa
+Niger,1997,259,13,5.02,Africa
+Niger,1996,3957,206,5.21,Africa
+Niger,1995,264,15,5.68,Africa
+Niger,1994,732,83,11.34,Africa
+Niger,1991,3238,367,11.33,Africa
+Niger,1989,166,22,13.25,Africa
+Niger,1984,3788,308,8.13,Africa
+Niger,1981,7,0,0,Africa
+Niger,1974,286,75,26.22,Africa
+Niger,1973,121,16,13.22,Africa
+Niger,1972,51,12,23.53,Africa
+Niger,1971,9265,2344,25.3,Africa
+Niger,1970,16,8,50,Africa
+Nigeria,2016,768,32,4.2,Africa
+Nigeria,2015,5290,186,3.5,Africa
+Nigeria,2014,35996,755,2.1,Africa
+Nigeria,2013,6600,229,3.47,Africa
+Nigeria,2012,597,18,3.02,Africa
+Nigeria,2011,23377,742,3.17,Africa
+Nigeria,2010,44456,1712,3.85,Africa
+Nigeria,2009,13691,431,3.15,Africa
+Nigeria,2008,5410,247,4.57,Africa
+Nigeria,2007,1661,48,2.89,Africa
+Nigeria,2006,2028,127,6.26,Africa
+Nigeria,2005,4477,174,3.89,Africa
+Nigeria,2004,3186,185,5.81,Africa
+Nigeria,2003,1933,87,4.5,Africa
+Nigeria,2002,5429,154,2.84,Africa
+Nigeria,2001,2312,119,5.15,Africa
+Nigeria,2000,2799,43,1.54,Africa
+Nigeria,1999,26358,2085,7.91,Africa
+Nigeria,1998,3464,187,5.4,Africa
+Nigeria,1997,1322,134,10.14,Africa
+Nigeria,1996,12374,1193,9.64,Africa
+Nigeria,1995,1059,87,8.22,Africa
+Nigeria,1994,2859,313,10.95,Africa
+Nigeria,1993,4160,266,6.39,Africa
+Nigeria,1992,8687,686,7.9,Africa
+Nigeria,1991,59478,7654,12.87,Africa
+Nigeria,1989,1078,61,5.66,Africa
+Nigeria,1988,137,10,7.3,Africa
+Nigeria,1987,1290,111,8.6,Africa
+Nigeria,1986,91,23,25.27,Africa
+Nigeria,1985,30,0,0,Africa
+Nigeria,1984,1667,185,11.1,Africa
+Nigeria,1983,178,2,1.12,Africa
+Nigeria,1982,248,18,7.26,Africa
+Nigeria,1981,107,18,16.82,Africa
+Nigeria,1980,138,25,18.12,Africa
+Nigeria,1979,293,4,1.37,Africa
+Nigeria,1978,197,20,10.15,Africa
+Nigeria,1977,376,10,2.66,Africa
+Nigeria,1976,112,25,22.32,Africa
+Nigeria,1975,38,1,2.63,Africa
+Nigeria,1973,157,27,17.2,Africa
+Nigeria,1972,1363,96,7.04,Africa
+Nigeria,1971,22931,2945,12.84,Africa
+Nigeria,1970,15,4,26.67,Africa
+Norway,2015,1,0,0,Europe
+Norway,2007,1,0,0,Europe
+Norway,2006,1,0,0,Europe
+Norway,2005,1,0,0,Europe
+Norway,1998,2,0,0,Europe
+Norway,1995,1,0,0,Europe
+Norway,1989,1,0,0,Europe
+Norway,1987,1,0,0,Europe
+Oman,2015,1,0,0,Eastern Mediterranean
+Oman,2002,1,,,Eastern Mediterranean
+Oman,2001,7,,,Eastern Mediterranean
+Oman,1971,9,8,88.89,Eastern Mediterranean
+Pakistan,2014,1218,6,0.5,Eastern Mediterranean
+Pakistan,2013,1069,23,2.15,Eastern Mediterranean
+Pakistan,2012,144,8,5.6,Eastern Mediterranean
+Pakistan,2011,527,219,41.56,Eastern Mediterranean
+Pakistan,2010,164,0,0.00,Eastern Mediterranean
+Pakistan,1993,12092,206,1.7,Eastern Mediterranean
+Pakistan,1981,4,0,0,Eastern Mediterranean
+Pakistan,1977,12,1,8.33,Eastern Mediterranean
+Pakistan,1976,144,,,Eastern Mediterranean
+Pakistan,1971,1185,43,3.63,Eastern Mediterranean
+Pakistan,1970,2,0,0,Eastern Mediterranean
+Pakistan,1969,717,17,2.37,Eastern Mediterranean
+Pakistan,1968,3932,55,1.4,Eastern Mediterranean
+Pakistan,1965,21,1,4.76,Eastern Mediterranean
+Pakistan,1960,6704,1107,16.51,Eastern Mediterranean
+Pakistan,1958,366,86,23.5,Eastern Mediterranean
+Panama,1993,42,4,9.52,Americas
+Panama,1992,2416,49,2.03,Americas
+Panama,1991,1178,29,2.46,Americas
+Papua New Guinea,2011,1535,2,0.13,Western Pacific
+Papua New Guinea,2010,8997,95,1.06,Western Pacific
+Papua New Guinea,2009,1957,45,2.3,Western Pacific
+Papua New Guinea,2005,0,0,0,Western Pacific
+Papua New Guinea,1962,1293,464,35.89,Western Pacific
+Paraguay,2009,5,0,0,Americas
+Paraguay,1996,4,0,0,Americas
+Paraguay,1993,3,0,0,Americas
+Peru,2002,16,0,0,Americas
+Peru,2001,494,0,0,Americas
+Peru,2000,934,6,0.64,Americas
+Peru,1999,1546,6,0.39,Americas
+Peru,1998,41717,568,1.36,Americas
+Peru,1997,3483,29,0.83,Americas
+Peru,1996,4518,21,0.46,Americas
+Peru,1995,22397,171,0.76,Americas
+Peru,1994,23887,199,0.83,Americas
+Peru,1993,72404,575,0.79,Americas
+Peru,1992,242237,801,0.33,Americas
+Peru,1991,322562,2909,0.9,Americas
+Philippines,2016,124,0,0.0,Western Pacific
+Philippines,2014,4547,8,0.2,Western Pacific
+Philippines,2013,6,0,0,Western Pacific
+Philippines,2012,1864,14,0.8,Western Pacific
+Philippines,2011,120,3,2.50,Western Pacific
+Philippines,2010,33,2,6.06,Western Pacific
+Philippines,2007,0,0,0,Western Pacific
+Philippines,2006,66,1,1.5,Western Pacific
+Philippines,2005,139,2,1.44,Western Pacific
+Philippines,2004,533,3,0.56,Western Pacific
+Philippines,2001,174,,,Western Pacific
+Philippines,2000,275,6,2.18,Western Pacific
+Philippines,1999,330,0,0,Western Pacific
+Philippines,1998,729,17,2.33,Western Pacific
+Philippines,1997,605,0,0,Western Pacific
+Philippines,1996,1402,14,1,Western Pacific
+Philippines,1995,847,4,0.47,Western Pacific
+Philippines,1994,3340,27,0.81,Western Pacific
+Philippines,1993,708,10,1.41,Western Pacific
+Philippines,1992,345,0,0,Western Pacific
+Philippines,1985,10,1,10,Western Pacific
+Philippines,1982,930,31,3.33,Western Pacific
+Philippines,1981,864,51,5.9,Western Pacific
+Philippines,1980,836,61,7.3,Western Pacific
+Philippines,1979,1268,408,32.18,Western Pacific
+Philippines,1978,1408,122,8.66,Western Pacific
+Philippines,1977,1363,180,13.21,Western Pacific
+Philippines,1976,1258,160,12.72,Western Pacific
+Philippines,1975,680,15,2.21,Western Pacific
+Philippines,1974,1730,33,1.91,Western Pacific
+Philippines,1973,2840,447,15.74,Western Pacific
+Philippines,1972,5601,78,1.39,Western Pacific
+Philippines,1971,3585,109,3.04,Western Pacific
+Philippines,1970,1095,38,3.47,Western Pacific
+Philippines,1969,1541,106,6.88,Western Pacific
+Philippines,1968,2787,89,3.19,Western Pacific
+Philippines,1967,1629,52,3.19,Western Pacific
+Philippines,1966,5261,273,5.19,Western Pacific
+Philippines,1965,4581,448,9.78,Western Pacific
+Philippines,1964,16464,1518,9.22,Western Pacific
+Philippines,1963,3979,433,10.88,Western Pacific
+Philippines,1962,13015,1682,12.92,Western Pacific
+Philippines,1961,9923,1405,14.16,Western Pacific
+Poland,2005,1,0,0,Europe
+Poland,1994,1,0,0,Europe
+Poland,1981,1,,,Europe
+Portugal,1995,1,0,0,Europe
+Portugal,1994,1,0,0,Europe
+Portugal,1975,1066,8,0.75,Europe
+Portugal,1974,2467,48,1.95,Europe
+Portugal,1971,64,4,6.25,Europe
+Qatar,2005,2,0,0,Eastern Mediterranean
+Qatar,2004,1,0,0.00,Eastern Mediterranean
+Qatar,2002,1,,,Eastern Mediterranean
+Republic of Korea,2016,4,0,0,Western Pacific
+Republic of Korea,2013,3,0,0,Western Pacific
+Republic of Korea,2011,3,,0.00,Western Pacific
+Republic of Korea,2010,1,0,0.00,Western Pacific
+Republic of Korea,2004,10,0,0.00,Western Pacific
+Republic of Korea,2001,138,0,0,Western Pacific
+Republic of Korea,1997,10,0,0,Western Pacific
+Republic of Korea,1995,74,0,0,Western Pacific
+Republic of Korea,1994,34,0,0,Western Pacific
+Republic of Korea,1993,5,0,0,Western Pacific
+Republic of Korea,1992,6,0,0,Western Pacific
+Republic of Korea,1991,113,4,3.54,Western Pacific
+Republic of Korea,1980,145,4,2.76,Western Pacific
+Republic of Korea,1970,475,23,4.84,Western Pacific
+Republic of Korea,1969,1538,137,8.91,Western Pacific
+Republic of Korea,1964,11,1,9.09,Western Pacific
+Republic of Korea,1963,415,38,9.16,Western Pacific
+Republic of Moldova,1995,240,5,2.08,Europe
+Republic of Moldova,1994,8,0,0,Europe
+Republic of Moldova,1993,1,0,0,Europe
+Romania,1995,118,3,2.54,Europe
+Romania,1994,80,4,5,Europe
+Romania,1993,15,0,0,Europe
+Romania,1992,3,0,0,Europe
+Romania,1991,226,9,3.98,Europe
+Romania,1990,270,1,0.37,Europe
+Russian Federation,2014,1,0,0.0,Europe
+Russian Federation,2012,1,0,0,Europe
+Russian Federation,2010,3,0,0.00,Europe
+Russian Federation,2007,1,,,Europe
+Russian Federation,2006,1,0,0,Europe
+Russian Federation,2004,1,0,0.00,Europe
+Russian Federation,2001,53,0,0,Europe
+Russian Federation,1999,8,0,0,Europe
+Russian Federation,1998,10,0,0,Europe
+Russian Federation,1997,11,0,0,Europe
+Russian Federation,1996,4,1,25,Europe
+Russian Federation,1995,9,0,0,Europe
+Russian Federation,1994,1048,15,1.43,Europe
+Russian Federation,1993,23,2,8.7,Europe
+Russian Federation,1992,6,,,Europe
+Russian Federation,1991,78,0,0,Europe
+Russian Federation,1990,49,0,0,Europe
+Russian Federation,1977,1,0,0,Europe
+Russian Federation,1976,1,0,0,Europe
+Russian Federation,1970,720,0,0,Europe
+Rwanda,2016,355,0,0.0,Africa
+Rwanda,2012,9,0,0,Africa
+Rwanda,2009,67,0,0,Africa
+Rwanda,2008,23,0,0,Africa
+Rwanda,2007,1453,21,1.45,Africa
+Rwanda,2006,405,21,5.19,Africa
+Rwanda,2005,89,0,0,Africa
+Rwanda,2004,586,0,0,Africa
+Rwanda,2003,12,0,0,Africa
+Rwanda,2001,157,2,1.27,Africa
+Rwanda,2000,1235,8,0.65,Africa
+Rwanda,1999,327,49,14.98,Africa
+Rwanda,1998,3220,74,2.3,Africa
+Rwanda,1997,274,16,5.84,Africa
+Rwanda,1996,106,10,9.43,Africa
+Rwanda,1995,3,0,0,Africa
+Rwanda,1994,10,0,0,Africa
+Rwanda,1993,568,34,5.99,Africa
+Rwanda,1992,503,35,6.96,Africa
+Rwanda,1991,679,35,5.15,Africa
+Rwanda,1989,1,0,0,Africa
+Rwanda,1988,70,3,4.29,Africa
+Rwanda,1987,101,6,5.94,Africa
+Rwanda,1986,226,7,3.1,Africa
+Rwanda,1985,21,0,0,Africa
+Rwanda,1984,161,13,8.07,Africa
+Rwanda,1983,54,5,9.26,Africa
+Rwanda,1982,201,2,1,Africa
+Rwanda,1981,24,1,4.17,Africa
+Rwanda,1980,30,4,13.33,Africa
+Rwanda,1979,5,0,0,Africa
+Rwanda,1978,838,48,5.73,Africa
+Samoa,1980,1,0,0,Western Pacific
+Sao Tome and Principe,2008,119,4,3.36,Africa
+Sao Tome and Principe,2007,90,0,0,Africa
+Sao Tome and Principe,2006,926,9,0.97,Africa
+Sao Tome and Principe,2005,1966,33,1.68,Africa
+Sao Tome and Principe,1991,3,1,33.33,Africa
+Sao Tome and Principe,1990,804,9,1.12,Africa
+Sao Tome and Principe,1989,3953,64,1.62,Africa
+Saudi Arabia,2002,38,,,Eastern Mediterranean
+Saudi Arabia,1986,74,3,4.05,Eastern Mediterranean
+Saudi Arabia,1981,13,0,0,Eastern Mediterranean
+Saudi Arabia,1980,2,0,0,Eastern Mediterranean
+Saudi Arabia,1979,23,0,0,Eastern Mediterranean
+Saudi Arabia,1978,30,1,3.33,Eastern Mediterranean
+Saudi Arabia,1977,18,0,0,Eastern Mediterranean
+Saudi Arabia,1976,50,0,0,Eastern Mediterranean
+Saudi Arabia,1975,91,48,52.75,Eastern Mediterranean
+Saudi Arabia,1972,303,0,0,Eastern Mediterranean
+Saudi Arabia,1970,266,14,5.26,Eastern Mediterranean
+Senegal,2012,1,0,0,Africa
+Senegal,2011,5,,0,Africa
+Senegal,2010,3,0,0.00,Africa
+Senegal,2009,4,0,0,Africa
+Senegal,2008,1283,20,1.56,Africa
+Senegal,2007,3984,24,0.6,Africa
+Senegal,2006,365,10,2.74,Africa
+Senegal,2005,31719,458,0,Africa
+Senegal,2004,1227,10,0.82,Africa
+Senegal,1997,371,11,2.97,Africa
+Senegal,1996,16107,765,4.75,Africa
+Senegal,1995,3332,160,4.8,Africa
+Senegal,1988,390,1,0.26,Africa
+Senegal,1987,3150,288,9.14,Africa
+Senegal,1986,476,63,13.24,Africa
+Senegal,1985,2988,474,15.86,Africa
+Senegal,1984,728,94,12.91,Africa
+Senegal,1981,428,0,0,Africa
+Senegal,1979,103,3,2.91,Africa
+Senegal,1978,315,8,2.54,Africa
+Senegal,1972,379,37,9.76,Africa
+Senegal,1971,265,60,22.64,Africa
+Seychelles,2008,0,0,0,Africa
+Seychelles,2007,178,1,0.56,Africa
+Seychelles,2006,0,0,0,Africa
+Seychelles,2005,0,0,0,Africa
+Sierra Leone,2013,377,32,8.49,Africa
+Sierra Leone,2012,23124,299,1.29,Africa
+Sierra Leone,2008,62,1,1.61,Africa
+Sierra Leone,2007,2219,84,3.79,Africa
+Sierra Leone,2006,2560,99,3.87,Africa
+Sierra Leone,2005,6,0,0,Africa
+Sierra Leone,2004,513,42,8.19,Africa
+Sierra Leone,1999,863,5,0.58,Africa
+Sierra Leone,1998,2096,57,2.72,Africa
+Sierra Leone,1995,10285,447,4.35,Africa
+Sierra Leone,1994,9709,623,6.42,Africa
+Sierra Leone,1987,557,30,5.39,Africa
+Sierra Leone,1986,8957,669,7.47,Africa
+Sierra Leone,1977,12,0,0,Africa
+Sierra Leone,1971,211,13,6.16,Africa
+Sierra Leone,1970,293,74,25.26,Africa
+Singapore,2014,2,0,0.0,Western Pacific
+Singapore,2013,2,0,0,Western Pacific
+Singapore,2012,2,0,0,Western Pacific
+Singapore,2011,2 ,,,Western Pacific
+Singapore,2004,11,1,9.09,Western Pacific
+Singapore,2003,1,0,0,Western Pacific
+Singapore,2002,2,,,Western Pacific
+Singapore,2001,8,0,0,Western Pacific
+Singapore,2000,10,0,0,Western Pacific
+Singapore,1999,11,0,0,Western Pacific
+Singapore,1998,31,2,6.45,Western Pacific
+Singapore,1997,19,0,0,Western Pacific
+Singapore,1996,19,1,5.26,Western Pacific
+Singapore,1995,14,0,0,Western Pacific
+Singapore,1994,41,1,2.44,Western Pacific
+Singapore,1993,24,0,0,Western Pacific
+Singapore,1992,17,0,0,Western Pacific
+Singapore,1991,34,2,5.88,Western Pacific
+Singapore,1990,26,0,0,Western Pacific
+Singapore,1989,39,0,0,Western Pacific
+Singapore,1988,19,0,0,Western Pacific
+Singapore,1987,63,0,0,Western Pacific
+Singapore,1986,27,0,0,Western Pacific
+Singapore,1985,27,1,3.7,Western Pacific
+Singapore,1984,40,8,20,Western Pacific
+Singapore,1983,14,0,0,Western Pacific
+Singapore,1982,31,0,0,Western Pacific
+Singapore,1981,34,0,0,Western Pacific
+Singapore,1980,18,0,0,Western Pacific
+Singapore,1979,10,0,0,Western Pacific
+Singapore,1978,83,0,0,Western Pacific
+Singapore,1977,11,0,0,Western Pacific
+Singapore,1975,10,0,0,Western Pacific
+Singapore,1974,8,0,0,Western Pacific
+Singapore,1973,1,0,0,Western Pacific
+Singapore,1972,114,3,2.63,Western Pacific
+Singapore,1969,11,4,36.36,Western Pacific
+Singapore,1968,6,0,0,Western Pacific
+Singapore,1964,24,3,12.5,Western Pacific
+Singapore,1963,27,2,7.41,Western Pacific
+Singapore,1953,0,,,Western Pacific
+Slovenia,2007,0,0,0,Europe
+Somalia,2016,15619,548,3.5,Eastern Mediterranean
+Somalia,2015,7536,84,1.1,Eastern Mediterranean
+Somalia,2014,2820,,,Eastern Mediterranean
+Somalia,2013,6864,140,2.04,Eastern Mediterranean
+Somalia,2012,22576,200,0.89,Eastern Mediterranean
+Somalia,2011,77636,1130,1.46,Eastern Mediterranean
+Somalia,2010,3510,103,2.93,Eastern Mediterranean
+Somalia,2009,208,3,1.44,Eastern Mediterranean
+Somalia,2008,1281,16,1.25,Eastern Mediterranean
+Somalia,2007,41643,1182,2.84,Eastern Mediterranean
+Somalia,2004,4490,26,0.58,Eastern Mediterranean
+Somalia,2003,11020,56,0.51,Eastern Mediterranean
+Somalia,2002,2775,159,5.73,Eastern Mediterranean
+Somalia,2001,2567,93,3.62,Eastern Mediterranean
+Somalia,2000,7496,563,7.51,Eastern Mediterranean
+Somalia,1999,17757,693,3.9,Eastern Mediterranean
+Somalia,1998,4417,196,4.44,Eastern Mediterranean
+Somalia,1997,6814,252,3.7,Eastern Mediterranean
+Somalia,1996,10274,464,4.52,Eastern Mediterranean
+Somalia,1995,9255,191,2.06,Eastern Mediterranean
+Somalia,1994,28334,1206,4.26,Eastern Mediterranean
+Somalia,1986,15980,1945,12.17,Eastern Mediterranean
+Somalia,1985,10199,1589,15.58,Eastern Mediterranean
+Somalia,1971,89,10,11.24,Eastern Mediterranean
+Somalia,1970,43,10,23.26,Eastern Mediterranean
+South Africa,2013,1,0,0,Africa
+South Africa,2009,10520,57,0.54,Africa
+South Africa,2008,3907,22,0.56,Africa
+South Africa,2006,0,0,0,Africa
+South Africa,2005,3503,28,0.8,Africa
+South Africa,2004,2767,35,1.26,Africa
+South Africa,2003,3901,45,1.15,Africa
+South Africa,2002,10004,32,0.32,Africa
+South Africa,2001,106159,232,0.22,Africa
+South Africa,2000,19667,68,0.35,Africa
+South Africa,1999,68,2,2.94,Africa
+South Africa,1998,20,1,5,Africa
+South Africa,1994,4,0,0,Africa
+South Africa,1993,78,2,2.56,Africa
+South Africa,1992,11,0,0,Africa
+South Africa,1991,10,0,0,Africa
+South Africa,1987,37,0,0,Africa
+South Africa,1986,120,1,0.83,Africa
+South Africa,1985,2742,4,0.15,Africa
+South Africa,1984,1182,20,1.69,Africa
+South Africa,1983,4715,63,1.34,Africa
+South Africa,1982,11968,224,1.87,Africa
+South Africa,1981,4180,52,1.24,Africa
+South Africa,1980,859,16,1.86,Africa
+South Africa,1979,2,0,0,Africa
+South Africa,1974,37,0,0,Africa
+South Africa,1973,1,0,0,Africa
+South Sudan,2016,4295,82,1.9,Africa
+South Sudan,2015,1818,47,2.6,Africa
+South Sudan,2014,6421,167,2.6,Africa
+Spain,2015,2,0,0,Europe
+Spain,2008,5,0,0,Europe
+Spain,2007,2,0,0,Europe
+Spain,2006,2,0,0,Europe
+Spain,2002,1,,,Europe
+Spain,2001,1,,,Europe
+Spain,1996,1,0,0,Europe
+Spain,1995,6,0,0,Europe
+Spain,1994,1,0,0,Europe
+Spain,1993,3,0,0,Europe
+Spain,1991,1,0,0,Europe
+Spain,1990,11,0,0,Europe
+Spain,1989,3,0,0,Europe
+Spain,1987,2,0,0,Europe
+Spain,1984,4,,,Europe
+Spain,1983,2,0,0,Europe
+Spain,1982,2,0,0,Europe
+Spain,1980,4,0,0,Europe
+Spain,1979,267,,,Europe
+Spain,1976,2,0,0,Europe
+Spain,1975,11,0,0,Europe
+Spain,1974,5,,,Europe
+Spain,1971,22,,,Europe
+Sri Lanka,2002,9,1,11.11,South-East Asia
+Sri Lanka,2000,2,0,0,South-East Asia
+Sri Lanka,1999,108,5,4.63,South-East Asia
+Sri Lanka,1998,1536,49,3.19,South-East Asia
+Sri Lanka,1997,430,12,2.79,South-East Asia
+Sri Lanka,1993,1,0,0,South-East Asia
+Sri Lanka,1992,121,3,2.48,South-East Asia
+Sri Lanka,1991,70,2,2.86,South-East Asia
+Sri Lanka,1988,154,11,7.14,South-East Asia
+Sri Lanka,1983,86,2,2.33,South-East Asia
+Sri Lanka,1982,309,21,6.8,South-East Asia
+Sri Lanka,1981,574,57,9.93,South-East Asia
+Sri Lanka,1980,104,4,3.85,South-East Asia
+Sri Lanka,1979,46,0,0,South-East Asia
+Sri Lanka,1978,48,2,4.17,South-East Asia
+Sri Lanka,1977,5,0,0,South-East Asia
+Sri Lanka,1976,728,16,2.2,South-East Asia
+Sri Lanka,1975,1453,67,4.61,South-East Asia
+Sri Lanka,1974,4559,333,7.3,South-East Asia
+Sri Lanka,1973,118,13,11.02,South-East Asia
+Sudan,2009,13681,52,0.38,Eastern Mediterranean
+Sudan,2008,17241,118,0.68,Eastern Mediterranean
+Sudan,2007,13731,500,3.64,Eastern Mediterranean
+Sudan,2006,30662,1011,3.29,Eastern Mediterranean
+Sudan,1999,0,0,0,Eastern Mediterranean
+Sudan,1985,4457,239,5.36,Eastern Mediterranean
+Sudan,1980,17,2,11.76,Eastern Mediterranean
+Sudan,1979,845,176,20.83,Eastern Mediterranean
+Suriname,1992,12,1,8.33,Americas
+Sweden,2015,1,0,0,Europe
+Sweden,2011,1 ,0,0.00,Europe
+Sweden,2006,1,0,0,Europe
+Sweden,2004,1,0,0.00,Europe
+Sweden,2003,1,,,Europe
+Sweden,1996,1,0,0,Europe
+Sweden,1995,2,0,0,Europe
+Sweden,1994,1,0,0,Europe
+Sweden,1992,1,0,0,Europe
+Sweden,1987,1,0,0,Europe
+Sweden,1986,1,0,0,Europe
+Sweden,1979,1,0,0,Europe
+Sweden,1976,1,0,0,Europe
+Sweden,1974,1,0,0,Europe
+Sweden,1973,10,0,0,Europe
+Sweden,1971,4,0,0,Europe
+Switzerland,2015,2,0,0,Europe
+Switzerland,2006,1,0,0,Europe
+Switzerland,1998,2,,,Europe
+Switzerland,1995,2,0,0,Europe
+Switzerland,1993,2,0,0,Europe
+Switzerland,1992,1,0,0,Europe
+Switzerland,1988,1,0,0,Europe
+Switzerland,1985,1,0,0,Europe
+Switzerland,1981,2,,,Europe
+Switzerland,1978,1,0,0,Europe
+Switzerland,1977,1,0,0,Europe
+Syrian Arab Republic,1979,689,30,4.35,Eastern Mediterranean
+Syrian Arab Republic,1977,2362,66,2.79,Eastern Mediterranean
+Syrian Arab Republic,1976,795,11,1.38,Eastern Mediterranean
+Syrian Arab Republic,1975,67,6,8.96,Eastern Mediterranean
+Syrian Arab Republic,1972,505,25,4.95,Eastern Mediterranean
+Syrian Arab Republic,1971,5,0,0,Eastern Mediterranean
+Syrian Arab Republic,1970,49,0,0,Eastern Mediterranean
+Tajikistan,1994,10,0,0,Europe
+Tajikistan,1993,165,5,3.03,Europe
+Thailand,2016,52,1,1.9,South-East Asia
+Thailand,2015,125,1,0.8,South-East Asia
+Thailand,2014,12,0,0.0,South-East Asia
+Thailand,2013,8,0,0,South-East Asia
+Thailand,2012,29,0,0,South-East Asia
+Thailand,2011,279,4,1.43,South-East Asia
+Thailand,2010,1974,15,0.76,South-East Asia
+Thailand,2009,315,2,0.63,South-East Asia
+Thailand,2008,436,3,0.69,South-East Asia
+Thailand,2007,1428,7,0.49,South-East Asia
+Thailand,2006,35,0,0,South-East Asia
+Thailand,1994,3487,5,0.14,South-East Asia
+Thailand,1988,3418,41,1.2,South-East Asia
+Thailand,1987,6353,36,0.57,South-East Asia
+Thailand,1986,213,1,0.47,South-East Asia
+Thailand,1985,899,14,1.56,South-East Asia
+Thailand,1984,645,19,2.95,South-East Asia
+Thailand,1983,1497,41,2.74,South-East Asia
+Thailand,1982,638,16,2.51,South-East Asia
+Thailand,1981,39,2,5.13,South-East Asia
+Thailand,1980,4331,85,1.96,South-East Asia
+Thailand,1979,1788,44,2.46,South-East Asia
+Thailand,1978,4183,123,2.94,South-East Asia
+Thailand,1977,383,5,1.31,South-East Asia
+Thailand,1976,6,0,0,South-East Asia
+Thailand,1975,1335,88,6.59,South-East Asia
+Thailand,1974,1475,64,4.34,South-East Asia
+Thailand,1973,844,33,3.91,South-East Asia
+Thailand,1969,961,40,4.16,South-East Asia
+Thailand,1968,404,21,5.2,South-East Asia
+Thailand,1967,148,6,4.05,South-East Asia
+Thailand,1966,401,21,5.24,South-East Asia
+Thailand,1965,65,4,6.15,South-East Asia
+Thailand,1964,960,30,3.13,South-East Asia
+Thailand,1963,2230,156,7,South-East Asia
+Thailand,1959,4368,613,14.03,South-East Asia
+Thailand,1958,10201,1426,13.98,South-East Asia
+Thailand,1951,1,0,0,South-East Asia
+Thailand,1949,16,2,12.5,South-East Asia
+The former state union Serbia and Montenegro,1994,2,0,0,Europe
+The former state union Serbia and Montenegro,1989,4,0,0,Europe
+The former state union Serbia and Montenegro,1981,2,0,0,Europe
+The former state union Serbia and Montenegro,1976,3,1,33.33,Europe
+Togo,2015,35,1,2.9,Africa
+Togo,2014,262,11,4.2,Africa
+Togo,2013,166,4,2.41,Africa
+Togo,2012,61,1,1.64,Africa
+Togo,2011,4,0,0,Africa
+Togo,2010,72,3,4.17,Africa
+Togo,2009,218,1,0.46,Africa
+Togo,2008,397,3,0.76,Africa
+Togo,2007,65,1,1.54,Africa
+Togo,2006,1159,25,2.16,Africa
+Togo,2005,1320,15,1.14,Africa
+Togo,2004,1080,33,3.06,Africa
+Togo,2003,384,28,7.29,Africa
+Togo,2002,257,14,5.45,Africa
+Togo,2001,2551,130,5.1,Africa
+Togo,2000,338,23,6.8,Africa
+Togo,1999,667,31,4.65,Africa
+Togo,1998,3217,221,6.87,Africa
+Togo,1997,42,7,16.67,Africa
+Togo,1996,146,17,11.64,Africa
+Togo,1995,65,4,6.15,Africa
+Togo,1994,47,5,10.64,Africa
+Togo,1993,19,2,10.53,Africa
+Togo,1992,753,53,7.04,Africa
+Togo,1991,2396,81,3.38,Africa
+Togo,1988,1,0,0,Africa
+Togo,1978,6,6,100,Africa
+Togo,1977,132,12,9.09,Africa
+Togo,1974,58,8,13.79,Africa
+Togo,1972,16,0,0,Africa
+Togo,1971,335,26,7.76,Africa
+Togo,1970,75,3,4,Africa
+Tonga,2001,145,2,1.38,Western Pacific
+Tunisia,1973,656,16,2.44,Eastern Mediterranean
+Tunisia,1972,4,0,0,Eastern Mediterranean
+Tunisia,1970,27,0,0,Eastern Mediterranean
+Turkey,1977,17,0,0,Europe
+Turkey,1970,384,52,13.54,Europe
+Turkmenistan,2002,30,2,6.67,Europe
+Turkmenistan,2001,561,6,1.07,Europe
+Turkmenistan,1997,55,0,0,Europe
+Turkmenistan,1994,1,0,0,Europe
+Tuvalu,1992,293,8,2.73,Western Pacific
+Tuvalu,1990,42,0,0,Western Pacific
+Uganda,2016,516,11,2.1,Africa
+Uganda,2015,1461,33,2.3,Africa
+Uganda,2014,309,9,2.9,Africa
+Uganda,2013,748,27,3.61,Africa
+Uganda,2012,6326,135,2.13,Africa
+Uganda,2010,2341,78,3.33,Africa
+Uganda,2009,1095,23,2.1,Africa
+Uganda,2008,3726,120,3.22,Africa
+Uganda,2007,276,3,1.09,Africa
+Uganda,2006,5194,106,2.04,Africa
+Uganda,2005,4924,98,0,Africa
+Uganda,2004,3380,91,2.69,Africa
+Uganda,2003,4377,129,2.95,Africa
+Uganda,2002,2274,133,5.85,Africa
+Uganda,2001,247,4,1.62,Africa
+Uganda,2000,2807,172,6.13,Africa
+Uganda,1999,5179,228,4.4,Africa
+Uganda,1998,49514,2064,4.17,Africa
+Uganda,1997,2610,188,7.2,Africa
+Uganda,1996,291,40,13.75,Africa
+Uganda,1995,538,66,12.27,Africa
+Uganda,1994,704,39,5.54,Africa
+Uganda,1992,5072,104,2.05,Africa
+Uganda,1991,279,28,10.04,Africa
+Uganda,1987,140,50,35.71,Africa
+Uganda,1982,190,48,25.26,Africa
+Uganda,1980,1539,181,11.76,Africa
+Uganda,1979,940,60,6.38,Africa
+Uganda,1978,1120,110,9.82,Africa
+Uganda,1975,3,0,0,Africa
+Uganda,1971,757,30,3.96,Africa
+Ukraine,2011,33,0,0.00,Europe
+Ukraine,2007,0,0,0,Europe
+Ukraine,1999,2,0,0,Europe
+Ukraine,1995,525,10,1.9,Europe
+Ukraine,1994,813,20,2.46,Europe
+Ukraine,1991,75,0,0,Europe
+United Arab Emirates,2002,3,,,Eastern Mediterranean
+United Arab Emirates,1972,2,0,0,Eastern Mediterranean
+United Kingdom of Great Britain and Northern Ireland,2016,19,0,0.0,Europe
+United Kingdom of Great Britain and Northern Ireland,2015,15,0,0,Europe
+United Kingdom of Great Britain and Northern Ireland,2014,14,0,0.0,Europe
+United Kingdom of Great Britain and Northern Ireland,2013,6,0,0,Europe
+United Kingdom of Great Britain and Northern Ireland,2012,17,0,0,Europe
+United Kingdom of Great Britain and Northern Ireland,2011,32 ,0,0.00,Europe
+United Kingdom of Great Britain and Northern Ireland,2010,8,0,0.00,Europe
+United Kingdom of Great Britain and Northern Ireland,2009,16,0,0,Europe
+United Kingdom of Great Britain and Northern Ireland,2008,8,0,0,Europe
+United Kingdom of Great Britain and Northern Ireland,2007,32,0,0,Europe
+United Kingdom of Great Britain and Northern Ireland,2006,49,0,0,Europe
+United Kingdom of Great Britain and Northern Ireland,2004,13,0,0.00,Europe
+United Kingdom of Great Britain and Northern Ireland,2003,9,,,Europe
+United Kingdom of Great Britain and Northern Ireland,2000,33,,,Europe
+United Kingdom of Great Britain and Northern Ireland,1998,18,0,0,Europe
+United Kingdom of Great Britain and Northern Ireland,1997,6,0,0,Europe
+United Kingdom of Great Britain and Northern Ireland,1996,13,0,0,Europe
+United Kingdom of Great Britain and Northern Ireland,1995,10,0,0,Europe
+United Kingdom of Great Britain and Northern Ireland,1994,18,0,0,Europe
+United Kingdom of Great Britain and Northern Ireland,1993,13,0,0,Europe
+United Kingdom of Great Britain and Northern Ireland,1992,5,0,0,Europe
+United Kingdom of Great Britain and Northern Ireland,1991,8,0,0,Europe
+United Kingdom of Great Britain and Northern Ireland,1990,6,0,0,Europe
+United Kingdom of Great Britain and Northern Ireland,1989,1,0,0,Europe
+United Kingdom of Great Britain and Northern Ireland,1988,10,0,0,Europe
+United Kingdom of Great Britain and Northern Ireland,1987,2,0,0,Europe
+United Kingdom of Great Britain and Northern Ireland,1986,11,0,0,Europe
+United Kingdom of Great Britain and Northern Ireland,1985,4,1,25,Europe
+United Kingdom of Great Britain and Northern Ireland,1984,5,0,0,Europe
+United Kingdom of Great Britain and Northern Ireland,1983,4,0,0,Europe
+United Kingdom of Great Britain and Northern Ireland,1982,1,0,0,Europe
+United Kingdom of Great Britain and Northern Ireland,1981,12,0,0,Europe
+United Kingdom of Great Britain and Northern Ireland,1980,6,,,Europe
+United Kingdom of Great Britain and Northern Ireland,1977,2,0,0,Europe
+United Kingdom of Great Britain and Northern Ireland,1976,1,0,0,Europe
+United Kingdom of Great Britain and Northern Ireland,1975,1,0,0,Europe
+United Kingdom of Great Britain and Northern Ireland,1974,3,0,0,Europe
+United Kingdom of Great Britain and Northern Ireland,1973,5,0,0,Europe
+United Kingdom of Great Britain and Northern Ireland,1972,2,0,0,Europe
+United Kingdom of Great Britain and Northern Ireland,1971,3,0,0,Europe
+United Kingdom of Great Britain and Northern Ireland,1970,1,0,0,Europe
+United Republic of Tanzania,2016,11360,172,1.5,Africa
+United Republic of Tanzania,2015,11563,144,1.2,Africa
+United Republic of Tanzania,2013,270,17,6.3,Africa
+United Republic of Tanzania,2012,286,4,1.4,Africa
+United Republic of Tanzania,2011,942,11,1.17,Africa
+United Republic of Tanzania,2010,4469,59,1.32,Africa
+United Republic of Tanzania,2009,7700,113,1.47,Africa
+United Republic of Tanzania,2008,2911,88,3.02,Africa
+United Republic of Tanzania,2007,1609,65,4.04,Africa
+United Republic of Tanzania,2006,14297,254,1.78,Africa
+United Republic of Tanzania,2005,2945,94,3.19,Africa
+United Republic of Tanzania,2004,10319,272,2.64,Africa
+United Republic of Tanzania,2003,710,32,4.51,Africa
+United Republic of Tanzania,2002,11920,297,2.49,Africa
+United Republic of Tanzania,2001,1300,52,4,Africa
+United Republic of Tanzania,2000,4637,156,3.36,Africa
+United Republic of Tanzania,1999,12266,584,4.76,Africa
+United Republic of Tanzania,1998,14488,608,4.2,Africa
+United Republic of Tanzania,1997,40249,2231,5.54,Africa
+United Republic of Tanzania,1996,1464,36,2.46,Africa
+United Republic of Tanzania,1995,2957,96,3.25,Africa
+United Republic of Tanzania,1994,2240,155,6.92,Africa
+United Republic of Tanzania,1993,792,74,9.34,Africa
+United Republic of Tanzania,1992,18526,2173,11.73,Africa
+United Republic of Tanzania,1991,5676,572,10.08,Africa
+United Republic of Tanzania,1990,2230,81,3.63,Africa
+United Republic of Tanzania,1989,2150,232,10.79,Africa
+United Republic of Tanzania,1988,5267,580,11.01,Africa
+United Republic of Tanzania,1987,1892,232,12.26,Africa
+United Republic of Tanzania,1986,1231,215,17.47,Africa
+United Republic of Tanzania,1985,1984,250,12.6,Africa
+United Republic of Tanzania,1984,2600,338,13,Africa
+United Republic of Tanzania,1983,1816,127,6.99,Africa
+United Republic of Tanzania,1982,4071,324,7.96,Africa
+United Republic of Tanzania,1981,4241,330,7.78,Africa
+United Republic of Tanzania,1980,5196,587,11.3,Africa
+United Republic of Tanzania,1979,2559,305,11.92,Africa
+United Republic of Tanzania,1978,6608,733,11.09,Africa
+United Republic of Tanzania,1977,297,26,8.75,Africa
+United Republic of Tanzania,1974,10,6,60,Africa
+United States of America,2016,14,0,0.0,Americas
+United States of America,2015,4,0,0,Americas
+United States of America,2014,7,0,0.0,Americas
+United States of America,2013,14,0,0,Americas
+United States of America,2012,18,0,0,Americas
+United States of America,2011,42 ,0,0.00,Americas
+United States of America,2010,15,0,0.00,Americas
+United States of America,2009,10,0,0,Americas
+United States of America,2008,5,0,0,Americas
+United States of America,2007,7,0,0,Americas
+United States of America,2006,8,0,0,Americas
+United States of America,2005,12,0,0,Americas
+United States of America,2004,5,0,0.00,Americas
+United States of America,2003,2,,,Americas
+United States of America,2002,2,,,Americas
+United States of America,2001,4,,,Americas
+United States of America,2000,4,0,0,Americas
+United States of America,1999,6,0,0,Americas
+United States of America,1998,17,0,0,Americas
+United States of America,1997,4,0,0,Americas
+United States of America,1996,3,0,0,Americas
+United States of America,1995,19,0,0,Americas
+United States of America,1994,47,0,0,Americas
+United States of America,1993,19,0,0,Americas
+United States of America,1992,103,1,0.97,Americas
+United States of America,1991,26,0,0,Americas
+United States of America,1990,7,0,0,Americas
+United States of America,1988,9,0,0,Americas
+United States of America,1987,6,0,0,Americas
+Uzbekistan,1994,1,0,0,Europe
+Venezuela (Bolivarian Republic of),2013,4,0,0,Americas
+Venezuela (Bolivarian Republic of),2011,49 ,0,0.00,Americas
+Venezuela (Bolivarian Republic of),2000,141,0,0,Americas
+Venezuela (Bolivarian Republic of),1999,376,8,2.13,Americas
+Venezuela (Bolivarian Republic of),1998,313,7,2.24,Americas
+Venezuela (Bolivarian Republic of),1997,2551,59,2.31,Americas
+Venezuela (Bolivarian Republic of),1996,269,9,3.35,Americas
+Venezuela (Bolivarian Republic of),1993,409,10,2.45,Americas
+Venezuela (Bolivarian Republic of),1992,2842,68,2.39,Americas
+Venezuela (Bolivarian Republic of),1991,15,2,13.33,Americas
+Viet Nam,2011,3,,0.00,Western Pacific
+Viet Nam,2010,606,0,0.00,Western Pacific
+Viet Nam,2009,471,1,0.21,Western Pacific
+Viet Nam,2008,853,0,0,Western Pacific
+Viet Nam,2007,1946,0,0,Western Pacific
+Viet Nam,2005,0,0,0,Western Pacific
+Viet Nam,1999,169,0,0,Western Pacific
+Viet Nam,1998,13,1,7.69,Western Pacific
+Viet Nam,1997,4,0,0,Western Pacific
+Viet Nam,1996,566,2,0.35,Western Pacific
+Viet Nam,1995,6088,45,0.74,Western Pacific
+Viet Nam,1994,5776,68,1.18,Western Pacific
+Viet Nam,1993,3361,9,0.27,Western Pacific
+Viet Nam,1992,4260,110,2.58,Western Pacific
+Viet Nam,1991,52,1,1.92,Western Pacific
+Viet Nam,1990,358,4,1.12,Western Pacific
+Viet Nam,1989,143,0,0,Western Pacific
+Viet Nam,1988,343,7,2.04,Western Pacific
+Viet Nam,1987,216,5,2.31,Western Pacific
+Viet Nam,1986,525,8,1.52,Western Pacific
+Viet Nam,1985,502,9,1.79,Western Pacific
+Viet Nam,1984,22,0,0,Western Pacific
+Viet Nam,1983,392,0,0,Western Pacific
+Viet Nam,1982,57,0,0,Western Pacific
+Viet Nam,1981,157,8,5.1,Western Pacific
+Viet Nam,1980,978,49,5.01,Western Pacific
+Viet Nam,1979,365,28,7.67,Western Pacific
+Viet Nam,1978,2,0,0,Western Pacific
+Viet Nam,1977,32,0,0,Western Pacific
+Viet Nam,1976,1068,0,0,Western Pacific
+Viet Nam,1975,5,0,0,Western Pacific
+Viet Nam,1974,139,2,1.44,Western Pacific
+Viet Nam,1973,1495,18,1.2,Western Pacific
+Viet Nam,1972,146,1,0.68,Western Pacific
+Viet Nam,1971,270,1,0.37,Western Pacific
+Viet Nam,1970,82,1,1.22,Western Pacific
+Viet Nam,1969,2573,26,1.01,Western Pacific
+Viet Nam,1968,1097,8,0.73,Western Pacific
+Viet Nam,1967,7664,71,0.93,Western Pacific
+Viet Nam,1966,8353,167,2,Western Pacific
+Viet Nam,1965,1738,29,1.67,Western Pacific
+Viet Nam,1964,20186,872,4.32,Western Pacific
+Viet Nam,1954,3,3,100,Western Pacific
+Viet Nam,1953,7,7,100,Western Pacific
+Viet Nam,1952,7,6,85.71,Western Pacific
+Viet Nam,1951,26,21,80.77,Western Pacific
+Viet Nam,1950,9,4,44.44,Western Pacific
+Yemen,2016,15751,164,1.0,Eastern Mediterranean
+Yemen,2011,31789,134,0.42,Eastern Mediterranean
+Yemen,2010,300,4,1.33,Eastern Mediterranean
+Yemen,2009,55,3,5.45,Eastern Mediterranean
+Yemen,1992,4,0,0,Eastern Mediterranean
+Yemen,1980,720,20,2.78,Eastern Mediterranean
+Yemen,1979,1953,45,2.3,Eastern Mediterranean
+Yemen,1978,414,12,2.9,Eastern Mediterranean
+Yemen,1975,1,0,0,Eastern Mediterranean
+Yemen,1974,6,1,16.67,Eastern Mediterranean
+Yemen,1973,215,23,10.7,Eastern Mediterranean
+Yemen,1972,1064,140,13.16,Eastern Mediterranean
+Yemen,1971,190,26,13.68,Eastern Mediterranean
+Zambia,2012,198,2,1.01,Africa
+Zambia,2011,330,7,2.12,Africa
+Zambia,2010,6794,62,0.91,Africa
+Zambia,2009,4712,80,1.7,Africa
+Zambia,2008,2061,39,1.89,Africa
+Zambia,2007,2286,35,1.53,Africa
+Zambia,2006,5360,183,3.41,Africa
+Zambia,2005,1503,7,0.47,Africa
+Zambia,2004,12149,373,3.07,Africa
+Zambia,2003,1049,29,2.76,Africa
+Zambia,2002,339,12,3.54,Africa
+Zambia,2001,3109,165,5.31,Africa
+Zambia,2000,4504,303,6.73,Africa
+Zambia,1999,13511,535,3.96,Africa
+Zambia,1998,171,0,0,Africa
+Zambia,1997,36,0,0,Africa
+Zambia,1996,2172,42,1.93,Africa
+Zambia,1993,6766,426,6.3,Africa
+Zambia,1992,11659,913,7.83,Africa
+Zambia,1991,13154,1091,8.29,Africa
+Zambia,1990,3717,315,8.47,Africa
+Zambia,1989,44,44,100,Africa
+Zambia,1983,233,19,8.15,Africa
+Zambia,1982,1403,131,9.34,Africa
+Zambia,1981,14,0,0,Africa
+Zambia,1980,57,17,29.82,Africa
+Zambia,1979,12,11,91.67,Africa
+Zambia,1978,263,36,13.69,Africa
+Zimbabwe,2016,10,1,10.0,Africa
+Zimbabwe,2015,60,0,0,Africa
+Zimbabwe,2012,23,1,4.35,Africa
+Zimbabwe,2011,1220,2,0.16,Africa
+Zimbabwe,2010,951,21,2.21,Africa
+Zimbabwe,2009,68153,2706,1.38,Africa
+Zimbabwe,2008,60055,2928,4.88,Africa
+Zimbabwe,2007,65,4,6.15,Africa
+Zimbabwe,2006,789,61,7.73,Africa
+Zimbabwe,2005,516,26,5.04,Africa
+Zimbabwe,2004,119,9,7.56,Africa
+Zimbabwe,2003,1009,35,3.47,Africa
+Zimbabwe,2002,3125,192,6.14,Africa
+Zimbabwe,2001,650,14,2.15,Africa
+Zimbabwe,2000,1675,223,13.31,Africa
+Zimbabwe,1999,5637,385,6.83,Africa
+Zimbabwe,1998,995,44,4.42,Africa
+Zimbabwe,1993,5385,332,6.17,Africa
+Zimbabwe,1992,2048,105,5.13,Africa
+Zimbabwe,1986,2,,,Africa
+Zimbabwe,1985,144,6,4.17,Africa
+Zimbabwe,1976,144,9,6.25,Africa
+Zimbabwe,1975,615,33,5.37,Africa
+Zimbabwe,1974,37,0,0,Africa
+Zimbabwe,1973,1,,,Africa
+Andorra,1993,,0,,Europe
+Argentina,1992,,15,,Americas
+Australia,1990,,0,,Western Pacific
+Australia,1969,,0,,Western Pacific
+Austria,1982,,0,,Europe
+Belgium,1981,,0,,Europe
+Bhutan,1958,,0,,South-East Asia
+Canada,1988,,0,,Americas
+Ethiopia,1979,,0,,Africa
+Greece,1981,,0,,Europe
+Norway,1981,,0,,Europe
+Poland,1991,,0,,Europe
+Portugal,1981,,0,,Europe
+Romania,1979,,8,,Europe
+Russian Federation,1986,,0,,Europe
+Russian Federation,1984,,0,,Europe
+Russian Federation,1981,,0,,Europe
+Russian Federation,1980,,0,,Europe
+Russian Federation,1971,,0,,Europe
+Sweden,1984,,0,,Europe
+Switzerland,1980,,0,,Europe
+Cambodia,2011,,,0.00,Western Pacific
